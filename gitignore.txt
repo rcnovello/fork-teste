@@ -1,0 +1,16 @@
+# Arquivos de compilação
+#*.o
+#*.out
+
+# Diretórios de compilação
+/node_modules
+/backups
+
+#/leiame
+#/libs
+# Ignorar arquivos de compilação
+#*.o
+#*.out
+
+# Ignorar arquivos temporários
+#*.tmp

@@ -1,0 +1,17 @@
+{
+  "name": "site-comofazerinformatica",
+  "version": "2.0.0",
+  "description": "Sites",
+  "main": "ecosystem.config.js",
+  "scripts": {
+    "start": "pm2-runtime ecosystem.config.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ronni Correa Novello - ronnicorrea@hotmail.com",
+  "license": "ISC",
+  "dependencies": {    
+    "axios": "^1.4.0",    
+    "ejs": "^3.1.9",
+    "express": "^4.19.2"
+  }
+}

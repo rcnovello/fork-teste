@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <%- include('partials/head.ejs') %>      
+</head>
+<body class="main">    
+    
+    <div class="container-fluid containerHeader">
+        <%- include('partials/header.ejs') %>
+
+        <!--
+        <h3>Titulo</h3>
+        -->
+
+    </div> 
+    
+    <!-- Destaques -->
+    <!--
+      <%- include('posts_destaques.ejs') %>
+    -->
+
+    
+    <main class="container">
+
+      <!-- Titulo 2 -->
+      <!--
+        <h3 class="pb-4 mb-4 fst-italic border-bottom">
+            From the Firehose
+          </h3>
+
+          -->
+
+        <div class="row g-5">
+          <div class="col-md-8">
+
+
+    <article>
+        <h1>Sobre Como Fazer Informática</h1>
+        
+        <p>O site Como Fazer Informática é uma plataforma online dedicada a fornecer tutoriais, dicas e guias práticos sobre diversos aspectos da tecnologia e informática. Com uma abordagem acessível e direta, o site visa ajudar usuários de todos os níveis de habilidade a compreender e dominar diferentes ferramentas e conceitos relacionados à informática.</p>
+
+        <p>No Como Fazer Informática, você encontrará uma ampla variedade de conteúdos, incluindo:</p>
+
+        <ul>
+            <li>Tutoriais passo a passo sobre instalação e configuração de software e hardware;</li>
+            <li>Dicas para solucionar problemas comuns de computadores e dispositivos eletrônicos;</li>
+            <li>Guias para otimizar o desempenho do seu sistema operacional;</li>
+            <li>Artigos informativos sobre as últimas tendências e novidades da tecnologia;</li>
+            <li>E muito mais!</li>
+        </ul>
+
+        <p>Seja você um iniciante curioso ou um usuário avançado em busca de aprimoramento, o Como Fazer Informática tem algo a oferecer. Explore nosso conteúdo e comece a aprimorar suas habilidades em informática hoje mesmo!</p>
+
+        <p>Para acessar o site e descobrir mais, visite <a href="https://www.comofazerinformatica.com.br/">Como Fazer Informática</a>.</p>
+    </article>
+
+
+
+          
+<!-- Exemplos posts -->
+       
+
+      
+          </div>
+      
+          <div class="col-md-4">
+            <div class="position-sticky" style="top: 2rem;">
+  
+  <!-- Redes Sociais -->    
+  <%- include('socials.ejs') %>
+
+<!-- Posts Recentes -->
+  <%- include('recents.ejs') %>
+
+  
+  <!-- Histórico posts -->
+  <!--
+              <div class="p-4">
+                <h4 class="fst-italic">Archives</h4>
+                <ol class="list-unstyled mb-0">
+                  <li><a href="#">March 2021</a></li>
+                  <li><a href="#">February 2021</a></li>
+                  <li><a href="#">January 2021</a></li>
+                  <li><a href="#">December 2020</a></li>
+                  <li><a href="#">November 2020</a></li>
+                  <li><a href="#">October 2020</a></li>
+                  <li><a href="#">September 2020</a></li>
+                  <li><a href="#">August 2020</a></li>
+                  <li><a href="#">July 2020</a></li>
+                  <li><a href="#">June 2020</a></li>
+                  <li><a href="#">May 2020</a></li>
+                  <li><a href="#">April 2020</a></li>
+                </ol>
+              </div>              
+      -->
+
+<!-- Outras acessos -->
+
+      <!--
+              <div class="p-4">
+                <h4 class="fst-italic">Elsewhere</h4>
+                <ol class="list-unstyled">
+                  <li><a href="#">GitHub</a></li>
+                  <li><a href="#">Twitter</a></li>
+                  <li><a href="#">Facebook</a></li>
+                </ol>
+              </div>
+      -->
+            </div>
+          </div>
+        </div>
+  
+        
+      </main>
+
+
+    <!--
+    <main>        
+        <section>
+            <div class="container mt-3">
+                <div class="row">
+                    <div>
+                        <div class="card mb-3">                            
+                             <div class="card-header bg-success text-white text-uppercase">1</div> 
+                            <div class="card-body">
+                                <p class="card-text">
+                                    1<br>
+                                    <ul>
+                                        <a href="/cadastrarExames" id="link-indice" rel="noopener noreferrer" class="text-decoration-none">  
+                                            <li>12</li>
+                                        </a>
+                                        <a href="/consultarExames" id="link-indice" rel="noopener noreferrer" class="text-decoration-none">
+                                            <li>13</li>
+                                        </a>
+                                        <a href="/paginaErro" id="link-indice" rel="noopener noreferrer" class="text-decoration-none">  
+                                            <li>14</li>
+                                        </a>
+                                        <a href="/login" id="link-indice" rel="noopener noreferrer" class="text-decoration-none">  
+                                            <li>15</li>
+                                        </a>
+                                    </ul>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+    -->
+
+    <%- include('partials/footer.ejs') %>
+    <%- include('partials/lib-js.ejs') %>
+    <script src="js/index.js"></script>
+
+
+</body>
+</html>

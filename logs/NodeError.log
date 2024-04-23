@@ -1,0 +1,1888 @@
+21/04/2024 15:57:36.169: Error: Cannot find module 'express'
+21/04/2024 15:57:36.169: Require stack:
+21/04/2024 15:57:36.169: - /Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js
+21/04/2024 15:57:36.169:     at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+21/04/2024 15:57:36.169:     at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+21/04/2024 15:57:36.169:     at require (node:internal/modules/cjs/helpers:121:18)
+21/04/2024 15:57:36.169:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js:3:17)
+21/04/2024 15:57:36.169:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 15:57:36.169:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 15:57:36.169:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 15:57:36.169:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 15:57:36.169:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 15:57:36.169:     at Module._compile (node:internal/modules/cjs/loader:1256:14) {
+21/04/2024 15:57:36.169:   code: 'MODULE_NOT_FOUND',
+21/04/2024 15:57:36.169:   requireStack: [
+21/04/2024 15:57:36.169:     '/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js'
+21/04/2024 15:57:36.169:   ]
+21/04/2024 15:57:36.169: }
+21/04/2024 15:57:36.170: Error: Cannot find module 'express'
+21/04/2024 15:57:36.171: Require stack:
+21/04/2024 15:57:36.171: - /Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js
+21/04/2024 15:57:36.171:     at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+21/04/2024 15:57:36.171:     at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+21/04/2024 15:57:36.171:     at require (node:internal/modules/cjs/helpers:121:18)
+21/04/2024 15:57:36.171:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js:1:17)
+21/04/2024 15:57:36.171:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 15:57:36.171:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 15:57:36.171:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 15:57:36.171:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 15:57:36.171:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 15:57:36.171:     at Module._compile (node:internal/modules/cjs/loader:1256:14) {
+21/04/2024 15:57:36.171:   code: 'MODULE_NOT_FOUND',
+21/04/2024 15:57:36.171:   requireStack: [
+21/04/2024 15:57:36.171:     '/Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js'
+21/04/2024 15:57:36.171:   ]
+21/04/2024 15:57:36.171: }
+21/04/2024 15:57:36.505: Error: Cannot find module 'express'
+21/04/2024 15:57:36.505: Require stack:
+21/04/2024 15:57:36.505: - /Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js
+21/04/2024 15:57:36.505:     at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+21/04/2024 15:57:36.505:     at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+21/04/2024 15:57:36.505:     at require (node:internal/modules/cjs/helpers:121:18)
+21/04/2024 15:57:36.505:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js:1:17)
+21/04/2024 15:57:36.505:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 15:57:36.505:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 15:57:36.505:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 15:57:36.505:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 15:57:36.505:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 15:57:36.505:     at Module._compile (node:internal/modules/cjs/loader:1256:14) {
+21/04/2024 15:57:36.505:   code: 'MODULE_NOT_FOUND',
+21/04/2024 15:57:36.505:   requireStack: [
+21/04/2024 15:57:36.505:     '/Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js'
+21/04/2024 15:57:36.505:   ]
+21/04/2024 15:57:36.505: }
+21/04/2024 15:57:36.506: Error: Cannot find module 'express'
+21/04/2024 15:57:36.506: Require stack:
+21/04/2024 15:57:36.506: - /Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js
+21/04/2024 15:57:36.506:     at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+21/04/2024 15:57:36.506:     at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+21/04/2024 15:57:36.506:     at require (node:internal/modules/cjs/helpers:121:18)
+21/04/2024 15:57:36.506:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js:3:17)
+21/04/2024 15:57:36.506:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 15:57:36.506:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 15:57:36.506:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 15:57:36.506:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 15:57:36.506:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 15:57:36.506:     at Module._compile (node:internal/modules/cjs/loader:1256:14) {
+21/04/2024 15:57:36.506:   code: 'MODULE_NOT_FOUND',
+21/04/2024 15:57:36.506:   requireStack: [
+21/04/2024 15:57:36.506:     '/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js'
+21/04/2024 15:57:36.506:   ]
+21/04/2024 15:57:36.506: }
+21/04/2024 15:57:36.783: Error: Cannot find module 'express'
+21/04/2024 15:57:36.783: Require stack:
+21/04/2024 15:57:36.783: - /Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js
+21/04/2024 15:57:36.783:     at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+21/04/2024 15:57:36.783:     at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+21/04/2024 15:57:36.783:     at require (node:internal/modules/cjs/helpers:121:18)
+21/04/2024 15:57:36.784:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js:1:17)
+21/04/2024 15:57:36.784:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 15:57:36.784:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 15:57:36.784:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 15:57:36.784:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 15:57:36.784:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 15:57:36.784:     at Module._compile (node:internal/modules/cjs/loader:1256:14) {
+21/04/2024 15:57:36.784:   code: 'MODULE_NOT_FOUND',
+21/04/2024 15:57:36.784:   requireStack: [
+21/04/2024 15:57:36.784:     '/Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js'
+21/04/2024 15:57:36.784:   ]
+21/04/2024 15:57:36.784: }
+21/04/2024 15:57:36.784: Error: Cannot find module 'express'
+21/04/2024 15:57:36.784: Require stack:
+21/04/2024 15:57:36.784: - /Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js
+21/04/2024 15:57:36.784:     at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+21/04/2024 15:57:36.784:     at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+21/04/2024 15:57:36.784:     at require (node:internal/modules/cjs/helpers:121:18)
+21/04/2024 15:57:36.784:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js:3:17)
+21/04/2024 15:57:36.784:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 15:57:36.784:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 15:57:36.784:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 15:57:36.784:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 15:57:36.784:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 15:57:36.784:     at Module._compile (node:internal/modules/cjs/loader:1256:14) {
+21/04/2024 15:57:36.784:   code: 'MODULE_NOT_FOUND',
+21/04/2024 15:57:36.784:   requireStack: [
+21/04/2024 15:57:36.784:     '/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js'
+21/04/2024 15:57:36.784:   ]
+21/04/2024 15:57:36.784: }
+21/04/2024 15:57:37.052: Error: Cannot find module 'express'
+21/04/2024 15:57:37.052: Require stack:
+21/04/2024 15:57:37.052: - /Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js
+21/04/2024 15:57:37.052:     at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+21/04/2024 15:57:37.052:     at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+21/04/2024 15:57:37.052:     at require (node:internal/modules/cjs/helpers:121:18)
+21/04/2024 15:57:37.052:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js:3:17)
+21/04/2024 15:57:37.052:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 15:57:37.052:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 15:57:37.052:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 15:57:37.052:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 15:57:37.052:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 15:57:37.052:     at Module._compile (node:internal/modules/cjs/loader:1256:14) {
+21/04/2024 15:57:37.052:   code: 'MODULE_NOT_FOUND',
+21/04/2024 15:57:37.052:   requireStack: [
+21/04/2024 15:57:37.052:     '/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js'
+21/04/2024 15:57:37.052:   ]
+21/04/2024 15:57:37.052: }
+21/04/2024 15:57:37.052: Error: Cannot find module 'express'
+21/04/2024 15:57:37.052: Require stack:
+21/04/2024 15:57:37.052: - /Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js
+21/04/2024 15:57:37.052:     at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+21/04/2024 15:57:37.052:     at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+21/04/2024 15:57:37.052:     at require (node:internal/modules/cjs/helpers:121:18)
+21/04/2024 15:57:37.053:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js:1:17)
+21/04/2024 15:57:37.053:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 15:57:37.053:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 15:57:37.053:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 15:57:37.053:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 15:57:37.053:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 15:57:37.053:     at Module._compile (node:internal/modules/cjs/loader:1256:14) {
+21/04/2024 15:57:37.053:   code: 'MODULE_NOT_FOUND',
+21/04/2024 15:57:37.053:   requireStack: [
+21/04/2024 15:57:37.053:     '/Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js'
+21/04/2024 15:57:37.053:   ]
+21/04/2024 15:57:37.053: }
+21/04/2024 15:57:37.300: Error: Cannot find module 'express'
+21/04/2024 15:57:37.300: Require stack:
+21/04/2024 15:57:37.300: - /Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js
+21/04/2024 15:57:37.300:     at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+21/04/2024 15:57:37.300:     at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+21/04/2024 15:57:37.300:     at require (node:internal/modules/cjs/helpers:121:18)
+21/04/2024 15:57:37.300:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js:1:17)
+21/04/2024 15:57:37.300:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 15:57:37.300:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 15:57:37.300:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 15:57:37.300:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 15:57:37.300:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 15:57:37.300:     at Module._compile (node:internal/modules/cjs/loader:1256:14) {
+21/04/2024 15:57:37.300:   code: 'MODULE_NOT_FOUND',
+21/04/2024 15:57:37.300:   requireStack: [
+21/04/2024 15:57:37.300:     '/Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js'
+21/04/2024 15:57:37.300:   ]
+21/04/2024 15:57:37.300: }
+21/04/2024 15:57:37.301: Error: Cannot find module 'express'
+21/04/2024 15:57:37.301: Require stack:
+21/04/2024 15:57:37.301: - /Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js
+21/04/2024 15:57:37.301:     at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+21/04/2024 15:57:37.301:     at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+21/04/2024 15:57:37.301:     at require (node:internal/modules/cjs/helpers:121:18)
+21/04/2024 15:57:37.301:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js:3:17)
+21/04/2024 15:57:37.301:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 15:57:37.301:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 15:57:37.301:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 15:57:37.301:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 15:57:37.301:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 15:57:37.301:     at Module._compile (node:internal/modules/cjs/loader:1256:14) {
+21/04/2024 15:57:37.301:   code: 'MODULE_NOT_FOUND',
+21/04/2024 15:57:37.301:   requireStack: [
+21/04/2024 15:57:37.301:     '/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js'
+21/04/2024 15:57:37.301:   ]
+21/04/2024 15:57:37.301: }
+21/04/2024 15:57:37.526: Error: Cannot find module 'express'
+21/04/2024 15:57:37.526: Require stack:
+21/04/2024 15:57:37.526: - /Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js
+21/04/2024 15:57:37.526:     at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+21/04/2024 15:57:37.526:     at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+21/04/2024 15:57:37.526:     at require (node:internal/modules/cjs/helpers:121:18)
+21/04/2024 15:57:37.526:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js:1:17)
+21/04/2024 15:57:37.526:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 15:57:37.526:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 15:57:37.526:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 15:57:37.526:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 15:57:37.526:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 15:57:37.526:     at Module._compile (node:internal/modules/cjs/loader:1256:14) {
+21/04/2024 15:57:37.526:   code: 'MODULE_NOT_FOUND',
+21/04/2024 15:57:37.526:   requireStack: [
+21/04/2024 15:57:37.526:     '/Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js'
+21/04/2024 15:57:37.526:   ]
+21/04/2024 15:57:37.526: }
+21/04/2024 15:57:37.526: Error: Cannot find module 'express'
+21/04/2024 15:57:37.526: Require stack:
+21/04/2024 15:57:37.526: - /Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js
+21/04/2024 15:57:37.526:     at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+21/04/2024 15:57:37.526:     at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+21/04/2024 15:57:37.526:     at require (node:internal/modules/cjs/helpers:121:18)
+21/04/2024 15:57:37.526:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js:3:17)
+21/04/2024 15:57:37.526:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 15:57:37.526:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 15:57:37.526:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 15:57:37.526:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 15:57:37.526:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 15:57:37.526:     at Module._compile (node:internal/modules/cjs/loader:1256:14) {
+21/04/2024 15:57:37.526:   code: 'MODULE_NOT_FOUND',
+21/04/2024 15:57:37.526:   requireStack: [
+21/04/2024 15:57:37.526:     '/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js'
+21/04/2024 15:57:37.526:   ]
+21/04/2024 15:57:37.526: }
+21/04/2024 15:57:37.810: Error: Cannot find module 'express'
+21/04/2024 15:57:37.810: Require stack:
+21/04/2024 15:57:37.810: - /Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js
+21/04/2024 15:57:37.810:     at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+21/04/2024 15:57:37.810:     at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+21/04/2024 15:57:37.810:     at require (node:internal/modules/cjs/helpers:121:18)
+21/04/2024 15:57:37.810:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js:1:17)
+21/04/2024 15:57:37.810:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 15:57:37.810:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 15:57:37.810:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 15:57:37.810:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 15:57:37.810:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 15:57:37.810:     at Module._compile (node:internal/modules/cjs/loader:1256:14) {
+21/04/2024 15:57:37.810:   code: 'MODULE_NOT_FOUND',
+21/04/2024 15:57:37.810:   requireStack: [
+21/04/2024 15:57:37.810:     '/Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js'
+21/04/2024 15:57:37.810:   ]
+21/04/2024 15:57:37.810: }
+21/04/2024 15:57:37.810: Error: Cannot find module 'express'
+21/04/2024 15:57:37.810: Require stack:
+21/04/2024 15:57:37.810: - /Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js
+21/04/2024 15:57:37.811:     at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+21/04/2024 15:57:37.811:     at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+21/04/2024 15:57:37.811:     at require (node:internal/modules/cjs/helpers:121:18)
+21/04/2024 15:57:37.811:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js:3:17)
+21/04/2024 15:57:37.811:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 15:57:37.811:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 15:57:37.811:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 15:57:37.811:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 15:57:37.811:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 15:57:37.811:     at Module._compile (node:internal/modules/cjs/loader:1256:14) {
+21/04/2024 15:57:37.811:   code: 'MODULE_NOT_FOUND',
+21/04/2024 15:57:37.811:   requireStack: [
+21/04/2024 15:57:37.811:     '/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js'
+21/04/2024 15:57:37.811:   ]
+21/04/2024 15:57:37.811: }
+21/04/2024 15:57:38.059: Error: Cannot find module 'express'
+21/04/2024 15:57:38.059: Require stack:
+21/04/2024 15:57:38.059: - /Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js
+21/04/2024 15:57:38.059:     at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+21/04/2024 15:57:38.059:     at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+21/04/2024 15:57:38.059:     at require (node:internal/modules/cjs/helpers:121:18)
+21/04/2024 15:57:38.059:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js:3:17)
+21/04/2024 15:57:38.059:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 15:57:38.059:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 15:57:38.059:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 15:57:38.059:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 15:57:38.059:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 15:57:38.059:     at Module._compile (node:internal/modules/cjs/loader:1256:14) {
+21/04/2024 15:57:38.059:   code: 'MODULE_NOT_FOUND',
+21/04/2024 15:57:38.059:   requireStack: [
+21/04/2024 15:57:38.059:     '/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js'
+21/04/2024 15:57:38.059:   ]
+21/04/2024 15:57:38.059: }
+21/04/2024 15:57:38.059: Error: Cannot find module 'express'
+21/04/2024 15:57:38.059: Require stack:
+21/04/2024 15:57:38.059: - /Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js
+21/04/2024 15:57:38.059:     at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+21/04/2024 15:57:38.059:     at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+21/04/2024 15:57:38.059:     at require (node:internal/modules/cjs/helpers:121:18)
+21/04/2024 15:57:38.059:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js:1:17)
+21/04/2024 15:57:38.059:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 15:57:38.059:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 15:57:38.059:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 15:57:38.059:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 15:57:38.059:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 15:57:38.059:     at Module._compile (node:internal/modules/cjs/loader:1256:14) {
+21/04/2024 15:57:38.059:   code: 'MODULE_NOT_FOUND',
+21/04/2024 15:57:38.059:   requireStack: [
+21/04/2024 15:57:38.059:     '/Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js'
+21/04/2024 15:57:38.059:   ]
+21/04/2024 15:57:38.059: }
+21/04/2024 15:57:38.283: Error: Cannot find module 'express'
+21/04/2024 15:57:38.283: Require stack:
+21/04/2024 15:57:38.283: - /Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js
+21/04/2024 15:57:38.283:     at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+21/04/2024 15:57:38.283:     at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+21/04/2024 15:57:38.283:     at require (node:internal/modules/cjs/helpers:121:18)
+21/04/2024 15:57:38.283:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js:1:17)
+21/04/2024 15:57:38.283:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 15:57:38.283:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 15:57:38.283:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 15:57:38.283:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 15:57:38.283:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 15:57:38.283:     at Module._compile (node:internal/modules/cjs/loader:1256:14) {
+21/04/2024 15:57:38.283:   code: 'MODULE_NOT_FOUND',
+21/04/2024 15:57:38.283:   requireStack: [
+21/04/2024 15:57:38.283:     '/Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js'
+21/04/2024 15:57:38.283:   ]
+21/04/2024 15:57:38.283: }
+21/04/2024 15:57:38.284: Error: Cannot find module 'express'
+21/04/2024 15:57:38.284: Require stack:
+21/04/2024 15:57:38.284: - /Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js
+21/04/2024 15:57:38.284:     at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+21/04/2024 15:57:38.284:     at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+21/04/2024 15:57:38.284:     at require (node:internal/modules/cjs/helpers:121:18)
+21/04/2024 15:57:38.284:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js:3:17)
+21/04/2024 15:57:38.284:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 15:57:38.284:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 15:57:38.284:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 15:57:38.284:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 15:57:38.284:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 15:57:38.284:     at Module._compile (node:internal/modules/cjs/loader:1256:14) {
+21/04/2024 15:57:38.284:   code: 'MODULE_NOT_FOUND',
+21/04/2024 15:57:38.284:   requireStack: [
+21/04/2024 15:57:38.284:     '/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js'
+21/04/2024 15:57:38.284:   ]
+21/04/2024 15:57:38.284: }
+21/04/2024 15:57:38.506: Error: Cannot find module 'express'
+21/04/2024 15:57:38.506: Require stack:
+21/04/2024 15:57:38.506: - /Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js
+21/04/2024 15:57:38.506:     at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+21/04/2024 15:57:38.506:     at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+21/04/2024 15:57:38.506:     at require (node:internal/modules/cjs/helpers:121:18)
+21/04/2024 15:57:38.506:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js:3:17)
+21/04/2024 15:57:38.506:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 15:57:38.506:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 15:57:38.506:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 15:57:38.506:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 15:57:38.506:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 15:57:38.506:     at Module._compile (node:internal/modules/cjs/loader:1256:14) {
+21/04/2024 15:57:38.506:   code: 'MODULE_NOT_FOUND',
+21/04/2024 15:57:38.506:   requireStack: [
+21/04/2024 15:57:38.506:     '/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js'
+21/04/2024 15:57:38.506:   ]
+21/04/2024 15:57:38.506: }
+21/04/2024 15:57:38.506: Error: Cannot find module 'express'
+21/04/2024 15:57:38.506: Require stack:
+21/04/2024 15:57:38.506: - /Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js
+21/04/2024 15:57:38.506:     at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+21/04/2024 15:57:38.506:     at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+21/04/2024 15:57:38.506:     at require (node:internal/modules/cjs/helpers:121:18)
+21/04/2024 15:57:38.506:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js:1:17)
+21/04/2024 15:57:38.506:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 15:57:38.506:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 15:57:38.506:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 15:57:38.506:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 15:57:38.506:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 15:57:38.506:     at Module._compile (node:internal/modules/cjs/loader:1256:14) {
+21/04/2024 15:57:38.506:   code: 'MODULE_NOT_FOUND',
+21/04/2024 15:57:38.506:   requireStack: [
+21/04/2024 15:57:38.506:     '/Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js'
+21/04/2024 15:57:38.506:   ]
+21/04/2024 15:57:38.506: }
+21/04/2024 15:57:38.738: Error: Cannot find module 'express'
+21/04/2024 15:57:38.738: Require stack:
+21/04/2024 15:57:38.738: - /Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js
+21/04/2024 15:57:38.738:     at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+21/04/2024 15:57:38.738:     at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+21/04/2024 15:57:38.738:     at require (node:internal/modules/cjs/helpers:121:18)
+21/04/2024 15:57:38.738:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js:1:17)
+21/04/2024 15:57:38.738:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 15:57:38.738:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 15:57:38.738:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 15:57:38.738:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 15:57:38.738:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 15:57:38.738:     at Module._compile (node:internal/modules/cjs/loader:1256:14) {
+21/04/2024 15:57:38.738:   code: 'MODULE_NOT_FOUND',
+21/04/2024 15:57:38.738:   requireStack: [
+21/04/2024 15:57:38.738:     '/Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js'
+21/04/2024 15:57:38.738:   ]
+21/04/2024 15:57:38.738: }
+21/04/2024 15:57:38.739: Error: Cannot find module 'express'
+21/04/2024 15:57:38.739: Require stack:
+21/04/2024 15:57:38.739: - /Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js
+21/04/2024 15:57:38.739:     at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+21/04/2024 15:57:38.739:     at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+21/04/2024 15:57:38.739:     at require (node:internal/modules/cjs/helpers:121:18)
+21/04/2024 15:57:38.739:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js:3:17)
+21/04/2024 15:57:38.739:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 15:57:38.739:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 15:57:38.739:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 15:57:38.739:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 15:57:38.739:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 15:57:38.739:     at Module._compile (node:internal/modules/cjs/loader:1256:14) {
+21/04/2024 15:57:38.739:   code: 'MODULE_NOT_FOUND',
+21/04/2024 15:57:38.739:   requireStack: [
+21/04/2024 15:57:38.739:     '/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js'
+21/04/2024 15:57:38.739:   ]
+21/04/2024 15:57:38.739: }
+21/04/2024 15:57:38.983: Error: Cannot find module 'express'
+21/04/2024 15:57:38.983: Require stack:
+21/04/2024 15:57:38.983: - /Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js
+21/04/2024 15:57:38.983:     at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+21/04/2024 15:57:38.983:     at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+21/04/2024 15:57:38.983:     at require (node:internal/modules/cjs/helpers:121:18)
+21/04/2024 15:57:38.983:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js:1:17)
+21/04/2024 15:57:38.983:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 15:57:38.983:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 15:57:38.983:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 15:57:38.983:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 15:57:38.983:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 15:57:38.983:     at Module._compile (node:internal/modules/cjs/loader:1256:14) {
+21/04/2024 15:57:38.983:   code: 'MODULE_NOT_FOUND',
+21/04/2024 15:57:38.983:   requireStack: [
+21/04/2024 15:57:38.983:     '/Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js'
+21/04/2024 15:57:38.983:   ]
+21/04/2024 15:57:38.983: }
+21/04/2024 15:57:38.984: Error: Cannot find module 'express'
+21/04/2024 15:57:38.984: Require stack:
+21/04/2024 15:57:38.984: - /Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js
+21/04/2024 15:57:38.984:     at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+21/04/2024 15:57:38.984:     at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+21/04/2024 15:57:38.984:     at require (node:internal/modules/cjs/helpers:121:18)
+21/04/2024 15:57:38.984:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js:3:17)
+21/04/2024 15:57:38.984:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 15:57:38.984:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 15:57:38.984:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 15:57:38.984:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 15:57:38.984:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 15:57:38.984:     at Module._compile (node:internal/modules/cjs/loader:1256:14) {
+21/04/2024 15:57:38.984:   code: 'MODULE_NOT_FOUND',
+21/04/2024 15:57:38.984:   requireStack: [
+21/04/2024 15:57:38.984:     '/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js'
+21/04/2024 15:57:38.984:   ]
+21/04/2024 15:57:38.984: }
+21/04/2024 15:57:39.213: Error: Cannot find module 'express'
+21/04/2024 15:57:39.213: Require stack:
+21/04/2024 15:57:39.213: - /Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js
+21/04/2024 15:57:39.213:     at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+21/04/2024 15:57:39.213:     at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+21/04/2024 15:57:39.213:     at require (node:internal/modules/cjs/helpers:121:18)
+21/04/2024 15:57:39.213:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js:1:17)
+21/04/2024 15:57:39.213:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 15:57:39.213:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 15:57:39.213:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 15:57:39.213:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 15:57:39.213:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 15:57:39.213:     at Module._compile (node:internal/modules/cjs/loader:1256:14) {
+21/04/2024 15:57:39.213:   code: 'MODULE_NOT_FOUND',
+21/04/2024 15:57:39.213:   requireStack: [
+21/04/2024 15:57:39.213:     '/Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js'
+21/04/2024 15:57:39.213:   ]
+21/04/2024 15:57:39.213: }
+21/04/2024 15:57:39.214: Error: Cannot find module 'express'
+21/04/2024 15:57:39.214: Require stack:
+21/04/2024 15:57:39.214: - /Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js
+21/04/2024 15:57:39.214:     at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+21/04/2024 15:57:39.214:     at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+21/04/2024 15:57:39.214:     at require (node:internal/modules/cjs/helpers:121:18)
+21/04/2024 15:57:39.214:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js:3:17)
+21/04/2024 15:57:39.214:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 15:57:39.214:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 15:57:39.214:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 15:57:39.214:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 15:57:39.214:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 15:57:39.214:     at Module._compile (node:internal/modules/cjs/loader:1256:14) {
+21/04/2024 15:57:39.214:   code: 'MODULE_NOT_FOUND',
+21/04/2024 15:57:39.214:   requireStack: [
+21/04/2024 15:57:39.214:     '/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js'
+21/04/2024 15:57:39.214:   ]
+21/04/2024 15:57:39.214: }
+21/04/2024 15:57:39.455: Error: Cannot find module 'express'
+21/04/2024 15:57:39.455: Require stack:
+21/04/2024 15:57:39.455: - /Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js
+21/04/2024 15:57:39.455:     at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+21/04/2024 15:57:39.455:     at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+21/04/2024 15:57:39.455:     at require (node:internal/modules/cjs/helpers:121:18)
+21/04/2024 15:57:39.455:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js:3:17)
+21/04/2024 15:57:39.455:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 15:57:39.455:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 15:57:39.455:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 15:57:39.455:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 15:57:39.455:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 15:57:39.455:     at Module._compile (node:internal/modules/cjs/loader:1256:14) {
+21/04/2024 15:57:39.455:   code: 'MODULE_NOT_FOUND',
+21/04/2024 15:57:39.455:   requireStack: [
+21/04/2024 15:57:39.455:     '/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js'
+21/04/2024 15:57:39.455:   ]
+21/04/2024 15:57:39.455: }
+21/04/2024 15:57:39.456: Error: Cannot find module 'express'
+21/04/2024 15:57:39.456: Require stack:
+21/04/2024 15:57:39.456: - /Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js
+21/04/2024 15:57:39.456:     at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+21/04/2024 15:57:39.456:     at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+21/04/2024 15:57:39.456:     at require (node:internal/modules/cjs/helpers:121:18)
+21/04/2024 15:57:39.456:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js:1:17)
+21/04/2024 15:57:39.456:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 15:57:39.456:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 15:57:39.456:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 15:57:39.456:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 15:57:39.456:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 15:57:39.456:     at Module._compile (node:internal/modules/cjs/loader:1256:14) {
+21/04/2024 15:57:39.456:   code: 'MODULE_NOT_FOUND',
+21/04/2024 15:57:39.456:   requireStack: [
+21/04/2024 15:57:39.456:     '/Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js'
+21/04/2024 15:57:39.456:   ]
+21/04/2024 15:57:39.456: }
+21/04/2024 15:57:39.691: Error: Cannot find module 'express'
+21/04/2024 15:57:39.691: Require stack:
+21/04/2024 15:57:39.691: - /Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js
+21/04/2024 15:57:39.691:     at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+21/04/2024 15:57:39.691:     at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+21/04/2024 15:57:39.691:     at require (node:internal/modules/cjs/helpers:121:18)
+21/04/2024 15:57:39.691:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js:1:17)
+21/04/2024 15:57:39.691:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 15:57:39.691:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 15:57:39.691:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 15:57:39.691:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 15:57:39.691:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 15:57:39.691:     at Module._compile (node:internal/modules/cjs/loader:1256:14) {
+21/04/2024 15:57:39.691:   code: 'MODULE_NOT_FOUND',
+21/04/2024 15:57:39.691:   requireStack: [
+21/04/2024 15:57:39.691:     '/Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js'
+21/04/2024 15:57:39.691:   ]
+21/04/2024 15:57:39.691: }
+21/04/2024 15:57:39.691: Error: Cannot find module 'express'
+21/04/2024 15:57:39.691: Require stack:
+21/04/2024 15:57:39.691: - /Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js
+21/04/2024 15:57:39.691:     at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+21/04/2024 15:57:39.691:     at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+21/04/2024 15:57:39.691:     at require (node:internal/modules/cjs/helpers:121:18)
+21/04/2024 15:57:39.691:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js:3:17)
+21/04/2024 15:57:39.691:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 15:57:39.691:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 15:57:39.691:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 15:57:39.691:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 15:57:39.691:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 15:57:39.691:     at Module._compile (node:internal/modules/cjs/loader:1256:14) {
+21/04/2024 15:57:39.691:   code: 'MODULE_NOT_FOUND',
+21/04/2024 15:57:39.691:   requireStack: [
+21/04/2024 15:57:39.691:     '/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js'
+21/04/2024 15:57:39.691:   ]
+21/04/2024 15:57:39.691: }
+21/04/2024 15:57:39.925: Error: Cannot find module 'express'
+21/04/2024 15:57:39.925: Require stack:
+21/04/2024 15:57:39.925: - /Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js
+21/04/2024 15:57:39.925:     at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+21/04/2024 15:57:39.925:     at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+21/04/2024 15:57:39.925:     at require (node:internal/modules/cjs/helpers:121:18)
+21/04/2024 15:57:39.925:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js:3:17)
+21/04/2024 15:57:39.925:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 15:57:39.925:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 15:57:39.925:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 15:57:39.925:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 15:57:39.925:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 15:57:39.925:     at Module._compile (node:internal/modules/cjs/loader:1256:14) {
+21/04/2024 15:57:39.925:   code: 'MODULE_NOT_FOUND',
+21/04/2024 15:57:39.925:   requireStack: [
+21/04/2024 15:57:39.925:     '/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js'
+21/04/2024 15:57:39.925:   ]
+21/04/2024 15:57:39.925: }
+21/04/2024 15:57:39.925: Error: Cannot find module 'express'
+21/04/2024 15:57:39.925: Require stack:
+21/04/2024 15:57:39.925: - /Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js
+21/04/2024 15:57:39.925:     at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+21/04/2024 15:57:39.925:     at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+21/04/2024 15:57:39.925:     at require (node:internal/modules/cjs/helpers:121:18)
+21/04/2024 15:57:39.925:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js:1:17)
+21/04/2024 15:57:39.925:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 15:57:39.925:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 15:57:39.925:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 15:57:39.925:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 15:57:39.925:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 15:57:39.925:     at Module._compile (node:internal/modules/cjs/loader:1256:14) {
+21/04/2024 15:57:39.925:   code: 'MODULE_NOT_FOUND',
+21/04/2024 15:57:39.925:   requireStack: [
+21/04/2024 15:57:39.925:     '/Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js'
+21/04/2024 15:57:39.925:   ]
+21/04/2024 15:57:39.925: }
+21/04/2024 15:59:50.998: Error: Cannot find module 'express'
+21/04/2024 15:59:50.998: Require stack:
+21/04/2024 15:59:50.998: - /Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js
+21/04/2024 15:59:50.998:     at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+21/04/2024 15:59:50.998:     at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+21/04/2024 15:59:50.998:     at require (node:internal/modules/cjs/helpers:121:18)
+21/04/2024 15:59:50.998:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js:3:17)
+21/04/2024 15:59:50.998:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 15:59:50.998:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 15:59:50.998:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 15:59:50.998:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 15:59:50.998:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 15:59:50.998:     at Module._compile (node:internal/modules/cjs/loader:1256:14) {
+21/04/2024 15:59:50.998:   code: 'MODULE_NOT_FOUND',
+21/04/2024 15:59:50.998:   requireStack: [
+21/04/2024 15:59:50.998:     '/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js'
+21/04/2024 15:59:50.998:   ]
+21/04/2024 15:59:50.998: }
+21/04/2024 15:59:51.176: Error: Cannot find module 'express'
+21/04/2024 15:59:51.176: Require stack:
+21/04/2024 15:59:51.176: - /Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js
+21/04/2024 15:59:51.176:     at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+21/04/2024 15:59:51.176:     at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+21/04/2024 15:59:51.176:     at require (node:internal/modules/cjs/helpers:121:18)
+21/04/2024 15:59:51.176:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js:3:17)
+21/04/2024 15:59:51.176:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 15:59:51.176:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 15:59:51.176:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 15:59:51.176:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 15:59:51.176:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 15:59:51.176:     at Module._compile (node:internal/modules/cjs/loader:1256:14) {
+21/04/2024 15:59:51.176:   code: 'MODULE_NOT_FOUND',
+21/04/2024 15:59:51.176:   requireStack: [
+21/04/2024 15:59:51.176:     '/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js'
+21/04/2024 15:59:51.176:   ]
+21/04/2024 15:59:51.176: }
+21/04/2024 15:59:51.350: Error: Cannot find module 'express'
+21/04/2024 15:59:51.350: Require stack:
+21/04/2024 15:59:51.350: - /Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js
+21/04/2024 15:59:51.350:     at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+21/04/2024 15:59:51.350:     at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+21/04/2024 15:59:51.350:     at require (node:internal/modules/cjs/helpers:121:18)
+21/04/2024 15:59:51.350:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js:3:17)
+21/04/2024 15:59:51.350:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 15:59:51.350:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 15:59:51.350:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 15:59:51.350:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 15:59:51.350:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 15:59:51.350:     at Module._compile (node:internal/modules/cjs/loader:1256:14) {
+21/04/2024 15:59:51.350:   code: 'MODULE_NOT_FOUND',
+21/04/2024 15:59:51.350:   requireStack: [
+21/04/2024 15:59:51.350:     '/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js'
+21/04/2024 15:59:51.350:   ]
+21/04/2024 15:59:51.350: }
+21/04/2024 15:59:51.523: Error: Cannot find module 'express'
+21/04/2024 15:59:51.523: Require stack:
+21/04/2024 15:59:51.523: - /Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js
+21/04/2024 15:59:51.523:     at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+21/04/2024 15:59:51.523:     at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+21/04/2024 15:59:51.523:     at require (node:internal/modules/cjs/helpers:121:18)
+21/04/2024 15:59:51.523:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js:3:17)
+21/04/2024 15:59:51.523:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 15:59:51.523:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 15:59:51.523:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 15:59:51.523:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 15:59:51.523:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 15:59:51.523:     at Module._compile (node:internal/modules/cjs/loader:1256:14) {
+21/04/2024 15:59:51.523:   code: 'MODULE_NOT_FOUND',
+21/04/2024 15:59:51.523:   requireStack: [
+21/04/2024 15:59:51.523:     '/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js'
+21/04/2024 15:59:51.523:   ]
+21/04/2024 15:59:51.523: }
+21/04/2024 15:59:51.707: Error: Cannot find module 'express'
+21/04/2024 15:59:51.707: Require stack:
+21/04/2024 15:59:51.707: - /Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js
+21/04/2024 15:59:51.707:     at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+21/04/2024 15:59:51.707:     at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+21/04/2024 15:59:51.707:     at require (node:internal/modules/cjs/helpers:121:18)
+21/04/2024 15:59:51.707:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js:3:17)
+21/04/2024 15:59:51.707:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 15:59:51.707:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 15:59:51.707:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 15:59:51.707:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 15:59:51.707:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 15:59:51.707:     at Module._compile (node:internal/modules/cjs/loader:1256:14) {
+21/04/2024 15:59:51.707:   code: 'MODULE_NOT_FOUND',
+21/04/2024 15:59:51.707:   requireStack: [
+21/04/2024 15:59:51.707:     '/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js'
+21/04/2024 15:59:51.707:   ]
+21/04/2024 15:59:51.707: }
+21/04/2024 15:59:51.878: Error: Cannot find module 'express'
+21/04/2024 15:59:51.878: Require stack:
+21/04/2024 15:59:51.878: - /Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js
+21/04/2024 15:59:51.878:     at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+21/04/2024 15:59:51.878:     at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+21/04/2024 15:59:51.878:     at require (node:internal/modules/cjs/helpers:121:18)
+21/04/2024 15:59:51.878:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js:3:17)
+21/04/2024 15:59:51.878:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 15:59:51.878:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 15:59:51.878:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 15:59:51.878:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 15:59:51.878:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 15:59:51.878:     at Module._compile (node:internal/modules/cjs/loader:1256:14) {
+21/04/2024 15:59:51.878:   code: 'MODULE_NOT_FOUND',
+21/04/2024 15:59:51.878:   requireStack: [
+21/04/2024 15:59:51.878:     '/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js'
+21/04/2024 15:59:51.878:   ]
+21/04/2024 15:59:51.878: }
+21/04/2024 15:59:52.047: Error: Cannot find module 'express'
+21/04/2024 15:59:52.047: Require stack:
+21/04/2024 15:59:52.047: - /Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js
+21/04/2024 15:59:52.047:     at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+21/04/2024 15:59:52.048:     at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+21/04/2024 15:59:52.048:     at require (node:internal/modules/cjs/helpers:121:18)
+21/04/2024 15:59:52.048:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js:3:17)
+21/04/2024 15:59:52.048:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 15:59:52.048:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 15:59:52.048:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 15:59:52.048:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 15:59:52.048:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 15:59:52.048:     at Module._compile (node:internal/modules/cjs/loader:1256:14) {
+21/04/2024 15:59:52.048:   code: 'MODULE_NOT_FOUND',
+21/04/2024 15:59:52.048:   requireStack: [
+21/04/2024 15:59:52.048:     '/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js'
+21/04/2024 15:59:52.048:   ]
+21/04/2024 15:59:52.048: }
+21/04/2024 15:59:52.224: Error: Cannot find module 'express'
+21/04/2024 15:59:52.224: Require stack:
+21/04/2024 15:59:52.224: - /Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js
+21/04/2024 15:59:52.224:     at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+21/04/2024 15:59:52.224:     at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+21/04/2024 15:59:52.224:     at require (node:internal/modules/cjs/helpers:121:18)
+21/04/2024 15:59:52.224:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js:3:17)
+21/04/2024 15:59:52.224:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 15:59:52.224:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 15:59:52.224:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 15:59:52.224:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 15:59:52.224:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 15:59:52.224:     at Module._compile (node:internal/modules/cjs/loader:1256:14) {
+21/04/2024 15:59:52.224:   code: 'MODULE_NOT_FOUND',
+21/04/2024 15:59:52.224:   requireStack: [
+21/04/2024 15:59:52.224:     '/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js'
+21/04/2024 15:59:52.224:   ]
+21/04/2024 15:59:52.224: }
+21/04/2024 15:59:52.392: Error: Cannot find module 'express'
+21/04/2024 15:59:52.392: Require stack:
+21/04/2024 15:59:52.392: - /Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js
+21/04/2024 15:59:52.392:     at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+21/04/2024 15:59:52.392:     at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+21/04/2024 15:59:52.392:     at require (node:internal/modules/cjs/helpers:121:18)
+21/04/2024 15:59:52.392:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js:3:17)
+21/04/2024 15:59:52.392:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 15:59:52.392:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 15:59:52.392:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 15:59:52.392:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 15:59:52.392:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 15:59:52.392:     at Module._compile (node:internal/modules/cjs/loader:1256:14) {
+21/04/2024 15:59:52.392:   code: 'MODULE_NOT_FOUND',
+21/04/2024 15:59:52.392:   requireStack: [
+21/04/2024 15:59:52.392:     '/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js'
+21/04/2024 15:59:52.392:   ]
+21/04/2024 15:59:52.392: }
+21/04/2024 15:59:52.574: Error: Cannot find module 'express'
+21/04/2024 15:59:52.574: Require stack:
+21/04/2024 15:59:52.575: - /Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js
+21/04/2024 15:59:52.575:     at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+21/04/2024 15:59:52.575:     at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+21/04/2024 15:59:52.575:     at require (node:internal/modules/cjs/helpers:121:18)
+21/04/2024 15:59:52.575:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js:3:17)
+21/04/2024 15:59:52.575:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 15:59:52.575:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 15:59:52.575:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 15:59:52.575:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 15:59:52.575:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 15:59:52.575:     at Module._compile (node:internal/modules/cjs/loader:1256:14) {
+21/04/2024 15:59:52.575:   code: 'MODULE_NOT_FOUND',
+21/04/2024 15:59:52.575:   requireStack: [
+21/04/2024 15:59:52.575:     '/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js'
+21/04/2024 15:59:52.575:   ]
+21/04/2024 15:59:52.575: }
+21/04/2024 15:59:52.751: Error: Cannot find module 'express'
+21/04/2024 15:59:52.751: Require stack:
+21/04/2024 15:59:52.751: - /Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js
+21/04/2024 15:59:52.751:     at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+21/04/2024 15:59:52.751:     at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+21/04/2024 15:59:52.751:     at require (node:internal/modules/cjs/helpers:121:18)
+21/04/2024 15:59:52.751:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js:3:17)
+21/04/2024 15:59:52.751:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 15:59:52.751:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 15:59:52.751:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 15:59:52.751:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 15:59:52.751:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 15:59:52.751:     at Module._compile (node:internal/modules/cjs/loader:1256:14) {
+21/04/2024 15:59:52.751:   code: 'MODULE_NOT_FOUND',
+21/04/2024 15:59:52.751:   requireStack: [
+21/04/2024 15:59:52.751:     '/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js'
+21/04/2024 15:59:52.751:   ]
+21/04/2024 15:59:52.751: }
+21/04/2024 15:59:52.929: Error: Cannot find module 'express'
+21/04/2024 15:59:52.929: Require stack:
+21/04/2024 15:59:52.929: - /Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js
+21/04/2024 15:59:52.929:     at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+21/04/2024 15:59:52.929:     at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+21/04/2024 15:59:52.929:     at require (node:internal/modules/cjs/helpers:121:18)
+21/04/2024 15:59:52.929:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js:3:17)
+21/04/2024 15:59:52.929:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 15:59:52.929:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 15:59:52.929:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 15:59:52.929:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 15:59:52.929:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 15:59:52.929:     at Module._compile (node:internal/modules/cjs/loader:1256:14) {
+21/04/2024 15:59:52.929:   code: 'MODULE_NOT_FOUND',
+21/04/2024 15:59:52.929:   requireStack: [
+21/04/2024 15:59:52.929:     '/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js'
+21/04/2024 15:59:52.929:   ]
+21/04/2024 15:59:52.929: }
+21/04/2024 15:59:53.105: Error: Cannot find module 'express'
+21/04/2024 15:59:53.105: Require stack:
+21/04/2024 15:59:53.105: - /Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js
+21/04/2024 15:59:53.105:     at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+21/04/2024 15:59:53.105:     at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+21/04/2024 15:59:53.105:     at require (node:internal/modules/cjs/helpers:121:18)
+21/04/2024 15:59:53.105:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js:3:17)
+21/04/2024 15:59:53.105:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 15:59:53.105:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 15:59:53.105:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 15:59:53.105:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 15:59:53.105:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 15:59:53.105:     at Module._compile (node:internal/modules/cjs/loader:1256:14) {
+21/04/2024 15:59:53.105:   code: 'MODULE_NOT_FOUND',
+21/04/2024 15:59:53.105:   requireStack: [
+21/04/2024 15:59:53.105:     '/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js'
+21/04/2024 15:59:53.105:   ]
+21/04/2024 15:59:53.105: }
+21/04/2024 15:59:53.281: Error: Cannot find module 'express'
+21/04/2024 15:59:53.281: Require stack:
+21/04/2024 15:59:53.281: - /Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js
+21/04/2024 15:59:53.281:     at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+21/04/2024 15:59:53.281:     at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+21/04/2024 15:59:53.281:     at require (node:internal/modules/cjs/helpers:121:18)
+21/04/2024 15:59:53.281:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js:3:17)
+21/04/2024 15:59:53.281:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 15:59:53.281:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 15:59:53.281:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 15:59:53.281:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 15:59:53.281:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 15:59:53.281:     at Module._compile (node:internal/modules/cjs/loader:1256:14) {
+21/04/2024 15:59:53.281:   code: 'MODULE_NOT_FOUND',
+21/04/2024 15:59:53.281:   requireStack: [
+21/04/2024 15:59:53.281:     '/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js'
+21/04/2024 15:59:53.281:   ]
+21/04/2024 15:59:53.281: }
+21/04/2024 15:59:53.448: Error: Cannot find module 'express'
+21/04/2024 15:59:53.448: Require stack:
+21/04/2024 15:59:53.448: - /Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js
+21/04/2024 15:59:53.448:     at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+21/04/2024 15:59:53.448:     at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+21/04/2024 15:59:53.448:     at require (node:internal/modules/cjs/helpers:121:18)
+21/04/2024 15:59:53.448:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js:3:17)
+21/04/2024 15:59:53.448:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 15:59:53.448:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 15:59:53.448:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 15:59:53.448:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 15:59:53.448:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 15:59:53.448:     at Module._compile (node:internal/modules/cjs/loader:1256:14) {
+21/04/2024 15:59:53.448:   code: 'MODULE_NOT_FOUND',
+21/04/2024 15:59:53.448:   requireStack: [
+21/04/2024 15:59:53.448:     '/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js'
+21/04/2024 15:59:53.448:   ]
+21/04/2024 15:59:53.448: }
+21/04/2024 15:59:53.626: Error: Cannot find module 'express'
+21/04/2024 15:59:53.626: Require stack:
+21/04/2024 15:59:53.626: - /Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js
+21/04/2024 15:59:53.626:     at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+21/04/2024 15:59:53.626:     at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+21/04/2024 15:59:53.626:     at require (node:internal/modules/cjs/helpers:121:18)
+21/04/2024 15:59:53.626:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js:3:17)
+21/04/2024 15:59:53.626:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 15:59:53.626:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 15:59:53.626:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 15:59:53.626:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 15:59:53.626:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 15:59:53.626:     at Module._compile (node:internal/modules/cjs/loader:1256:14) {
+21/04/2024 15:59:53.626:   code: 'MODULE_NOT_FOUND',
+21/04/2024 15:59:53.626:   requireStack: [
+21/04/2024 15:59:53.626:     '/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js'
+21/04/2024 15:59:53.626:   ]
+21/04/2024 15:59:53.626: }
+21/04/2024 16:02:10.200: Error: Cannot find module 'express'
+21/04/2024 16:02:10.200: Require stack:
+21/04/2024 16:02:10.200: - /Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js
+21/04/2024 16:02:10.200:     at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+21/04/2024 16:02:10.200:     at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+21/04/2024 16:02:10.200:     at require (node:internal/modules/cjs/helpers:121:18)
+21/04/2024 16:02:10.200:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js:1:17)
+21/04/2024 16:02:10.200:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 16:02:10.200:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 16:02:10.200:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 16:02:10.200:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 16:02:10.200:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 16:02:10.200:     at Module._compile (node:internal/modules/cjs/loader:1256:14) {
+21/04/2024 16:02:10.200:   code: 'MODULE_NOT_FOUND',
+21/04/2024 16:02:10.200:   requireStack: [
+21/04/2024 16:02:10.200:     '/Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js'
+21/04/2024 16:02:10.200:   ]
+21/04/2024 16:02:10.200: }
+21/04/2024 16:02:10.201: Error: Cannot find module 'express'
+21/04/2024 16:02:10.201: Require stack:
+21/04/2024 16:02:10.201: - /Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js
+21/04/2024 16:02:10.201:     at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+21/04/2024 16:02:10.201:     at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+21/04/2024 16:02:10.201:     at require (node:internal/modules/cjs/helpers:121:18)
+21/04/2024 16:02:10.201:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js:3:17)
+21/04/2024 16:02:10.201:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 16:02:10.201:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 16:02:10.201:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 16:02:10.201:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 16:02:10.201:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 16:02:10.201:     at Module._compile (node:internal/modules/cjs/loader:1256:14) {
+21/04/2024 16:02:10.201:   code: 'MODULE_NOT_FOUND',
+21/04/2024 16:02:10.201:   requireStack: [
+21/04/2024 16:02:10.201:     '/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js'
+21/04/2024 16:02:10.201:   ]
+21/04/2024 16:02:10.201: }
+21/04/2024 16:02:10.440: Error: Cannot find module 'express'
+21/04/2024 16:02:10.440: Require stack:
+21/04/2024 16:02:10.440: - /Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js
+21/04/2024 16:02:10.440:     at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+21/04/2024 16:02:10.440:     at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+21/04/2024 16:02:10.440:     at require (node:internal/modules/cjs/helpers:121:18)
+21/04/2024 16:02:10.440:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js:1:17)
+21/04/2024 16:02:10.440:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 16:02:10.440:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 16:02:10.440:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 16:02:10.440:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 16:02:10.440:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 16:02:10.440:     at Module._compile (node:internal/modules/cjs/loader:1256:14) {
+21/04/2024 16:02:10.440:   code: 'MODULE_NOT_FOUND',
+21/04/2024 16:02:10.440:   requireStack: [
+21/04/2024 16:02:10.440:     '/Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js'
+21/04/2024 16:02:10.440:   ]
+21/04/2024 16:02:10.440: }
+21/04/2024 16:02:10.440: Error: Cannot find module 'express'
+21/04/2024 16:02:10.440: Require stack:
+21/04/2024 16:02:10.440: - /Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js
+21/04/2024 16:02:10.440:     at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+21/04/2024 16:02:10.440:     at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+21/04/2024 16:02:10.440:     at require (node:internal/modules/cjs/helpers:121:18)
+21/04/2024 16:02:10.440:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js:3:17)
+21/04/2024 16:02:10.440:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 16:02:10.440:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 16:02:10.440:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 16:02:10.440:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 16:02:10.440:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 16:02:10.440:     at Module._compile (node:internal/modules/cjs/loader:1256:14) {
+21/04/2024 16:02:10.440:   code: 'MODULE_NOT_FOUND',
+21/04/2024 16:02:10.440:   requireStack: [
+21/04/2024 16:02:10.440:     '/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js'
+21/04/2024 16:02:10.440:   ]
+21/04/2024 16:02:10.440: }
+21/04/2024 16:02:10.674: Error: Cannot find module 'express'
+21/04/2024 16:02:10.674: Require stack:
+21/04/2024 16:02:10.674: - /Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js
+21/04/2024 16:02:10.674:     at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+21/04/2024 16:02:10.674:     at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+21/04/2024 16:02:10.674:     at require (node:internal/modules/cjs/helpers:121:18)
+21/04/2024 16:02:10.674:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js:3:17)
+21/04/2024 16:02:10.674:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 16:02:10.674:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 16:02:10.674:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 16:02:10.674:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 16:02:10.674:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 16:02:10.674:     at Module._compile (node:internal/modules/cjs/loader:1256:14) {
+21/04/2024 16:02:10.674:   code: 'MODULE_NOT_FOUND',
+21/04/2024 16:02:10.674:   requireStack: [
+21/04/2024 16:02:10.674:     '/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js'
+21/04/2024 16:02:10.674:   ]
+21/04/2024 16:02:10.674: }
+21/04/2024 16:02:10.674: Error: Cannot find module 'express'
+21/04/2024 16:02:10.674: Require stack:
+21/04/2024 16:02:10.674: - /Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js
+21/04/2024 16:02:10.674:     at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+21/04/2024 16:02:10.674:     at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+21/04/2024 16:02:10.675:     at require (node:internal/modules/cjs/helpers:121:18)
+21/04/2024 16:02:10.675:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js:1:17)
+21/04/2024 16:02:10.675:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 16:02:10.675:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 16:02:10.675:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 16:02:10.675:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 16:02:10.675:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 16:02:10.675:     at Module._compile (node:internal/modules/cjs/loader:1256:14) {
+21/04/2024 16:02:10.675:   code: 'MODULE_NOT_FOUND',
+21/04/2024 16:02:10.675:   requireStack: [
+21/04/2024 16:02:10.675:     '/Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js'
+21/04/2024 16:02:10.675:   ]
+21/04/2024 16:02:10.675: }
+21/04/2024 16:02:10.936: Error: Cannot find module 'express'
+21/04/2024 16:02:10.936: Require stack:
+21/04/2024 16:02:10.936: - /Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js
+21/04/2024 16:02:10.936:     at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+21/04/2024 16:02:10.936:     at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+21/04/2024 16:02:10.936:     at require (node:internal/modules/cjs/helpers:121:18)
+21/04/2024 16:02:10.936:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js:3:17)
+21/04/2024 16:02:10.936:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 16:02:10.936:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 16:02:10.936:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 16:02:10.936:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 16:02:10.936:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 16:02:10.936:     at Module._compile (node:internal/modules/cjs/loader:1256:14) {
+21/04/2024 16:02:10.936:   code: 'MODULE_NOT_FOUND',
+21/04/2024 16:02:10.936:   requireStack: [
+21/04/2024 16:02:10.936:     '/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js'
+21/04/2024 16:02:10.936:   ]
+21/04/2024 16:02:10.936: }
+21/04/2024 16:02:10.937: Error: Cannot find module 'express'
+21/04/2024 16:02:10.937: Require stack:
+21/04/2024 16:02:10.937: - /Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js
+21/04/2024 16:02:10.937:     at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+21/04/2024 16:02:10.937:     at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+21/04/2024 16:02:10.937:     at require (node:internal/modules/cjs/helpers:121:18)
+21/04/2024 16:02:10.937:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js:1:17)
+21/04/2024 16:02:10.937:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 16:02:10.937:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 16:02:10.937:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 16:02:10.937:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 16:02:10.937:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 16:02:10.937:     at Module._compile (node:internal/modules/cjs/loader:1256:14) {
+21/04/2024 16:02:10.937:   code: 'MODULE_NOT_FOUND',
+21/04/2024 16:02:10.937:   requireStack: [
+21/04/2024 16:02:10.937:     '/Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js'
+21/04/2024 16:02:10.937:   ]
+21/04/2024 16:02:10.937: }
+21/04/2024 16:02:11.167: Error: Cannot find module 'express'
+21/04/2024 16:02:11.167: Require stack:
+21/04/2024 16:02:11.167: - /Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js
+21/04/2024 16:02:11.167:     at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+21/04/2024 16:02:11.167:     at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+21/04/2024 16:02:11.167:     at require (node:internal/modules/cjs/helpers:121:18)
+21/04/2024 16:02:11.167:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js:3:17)
+21/04/2024 16:02:11.167:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 16:02:11.167:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 16:02:11.167:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 16:02:11.167:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 16:02:11.167:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 16:02:11.167:     at Module._compile (node:internal/modules/cjs/loader:1256:14) {
+21/04/2024 16:02:11.167:   code: 'MODULE_NOT_FOUND',
+21/04/2024 16:02:11.167:   requireStack: [
+21/04/2024 16:02:11.167:     '/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js'
+21/04/2024 16:02:11.167:   ]
+21/04/2024 16:02:11.167: }
+21/04/2024 16:02:11.168: Error: Cannot find module 'express'
+21/04/2024 16:02:11.168: Require stack:
+21/04/2024 16:02:11.168: - /Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js
+21/04/2024 16:02:11.168:     at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+21/04/2024 16:02:11.168:     at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+21/04/2024 16:02:11.168:     at require (node:internal/modules/cjs/helpers:121:18)
+21/04/2024 16:02:11.168:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js:1:17)
+21/04/2024 16:02:11.168:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 16:02:11.168:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 16:02:11.168:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 16:02:11.168:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 16:02:11.168:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 16:02:11.168:     at Module._compile (node:internal/modules/cjs/loader:1256:14) {
+21/04/2024 16:02:11.168:   code: 'MODULE_NOT_FOUND',
+21/04/2024 16:02:11.168:   requireStack: [
+21/04/2024 16:02:11.168:     '/Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js'
+21/04/2024 16:02:11.168:   ]
+21/04/2024 16:02:11.168: }
+21/04/2024 16:02:11.385: Error: Cannot find module 'express'
+21/04/2024 16:02:11.386: Require stack:
+21/04/2024 16:02:11.386: - /Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js
+21/04/2024 16:02:11.386:     at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+21/04/2024 16:02:11.386:     at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+21/04/2024 16:02:11.386:     at require (node:internal/modules/cjs/helpers:121:18)
+21/04/2024 16:02:11.386:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js:1:17)
+21/04/2024 16:02:11.386:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 16:02:11.386:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 16:02:11.386:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 16:02:11.386:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 16:02:11.386:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 16:02:11.386:     at Module._compile (node:internal/modules/cjs/loader:1256:14) {
+21/04/2024 16:02:11.386:   code: 'MODULE_NOT_FOUND',
+21/04/2024 16:02:11.386:   requireStack: [
+21/04/2024 16:02:11.386:     '/Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js'
+21/04/2024 16:02:11.386:   ]
+21/04/2024 16:02:11.386: }
+21/04/2024 16:02:11.386: Error: Cannot find module 'express'
+21/04/2024 16:02:11.386: Require stack:
+21/04/2024 16:02:11.386: - /Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js
+21/04/2024 16:02:11.386:     at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+21/04/2024 16:02:11.386:     at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+21/04/2024 16:02:11.386:     at require (node:internal/modules/cjs/helpers:121:18)
+21/04/2024 16:02:11.386:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js:3:17)
+21/04/2024 16:02:11.386:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 16:02:11.386:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 16:02:11.386:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 16:02:11.386:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 16:02:11.386:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 16:02:11.386:     at Module._compile (node:internal/modules/cjs/loader:1256:14) {
+21/04/2024 16:02:11.386:   code: 'MODULE_NOT_FOUND',
+21/04/2024 16:02:11.386:   requireStack: [
+21/04/2024 16:02:11.386:     '/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js'
+21/04/2024 16:02:11.386:   ]
+21/04/2024 16:02:11.386: }
+21/04/2024 16:02:11.612: Error: Cannot find module 'express'
+21/04/2024 16:02:11.612: Require stack:
+21/04/2024 16:02:11.612: - /Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js
+21/04/2024 16:02:11.612:     at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+21/04/2024 16:02:11.612:     at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+21/04/2024 16:02:11.612:     at require (node:internal/modules/cjs/helpers:121:18)
+21/04/2024 16:02:11.612:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js:3:17)
+21/04/2024 16:02:11.612:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 16:02:11.612:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 16:02:11.612:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 16:02:11.612:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 16:02:11.612:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 16:02:11.612:     at Module._compile (node:internal/modules/cjs/loader:1256:14) {
+21/04/2024 16:02:11.612:   code: 'MODULE_NOT_FOUND',
+21/04/2024 16:02:11.612:   requireStack: [
+21/04/2024 16:02:11.612:     '/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js'
+21/04/2024 16:02:11.612:   ]
+21/04/2024 16:02:11.612: }
+21/04/2024 16:02:11.612: Error: Cannot find module 'express'
+21/04/2024 16:02:11.612: Require stack:
+21/04/2024 16:02:11.612: - /Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js
+21/04/2024 16:02:11.612:     at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+21/04/2024 16:02:11.612:     at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+21/04/2024 16:02:11.612:     at require (node:internal/modules/cjs/helpers:121:18)
+21/04/2024 16:02:11.612:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js:1:17)
+21/04/2024 16:02:11.612:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 16:02:11.612:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 16:02:11.612:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 16:02:11.612:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 16:02:11.612:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 16:02:11.612:     at Module._compile (node:internal/modules/cjs/loader:1256:14) {
+21/04/2024 16:02:11.612:   code: 'MODULE_NOT_FOUND',
+21/04/2024 16:02:11.612:   requireStack: [
+21/04/2024 16:02:11.612:     '/Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js'
+21/04/2024 16:02:11.612:   ]
+21/04/2024 16:02:11.612: }
+21/04/2024 16:02:11.847: Error: Cannot find module 'express'
+21/04/2024 16:02:11.847: Require stack:
+21/04/2024 16:02:11.847: - /Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js
+21/04/2024 16:02:11.847:     at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+21/04/2024 16:02:11.847:     at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+21/04/2024 16:02:11.847:     at require (node:internal/modules/cjs/helpers:121:18)
+21/04/2024 16:02:11.847:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js:1:17)
+21/04/2024 16:02:11.847:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 16:02:11.847:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 16:02:11.847:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 16:02:11.847:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 16:02:11.847:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 16:02:11.847:     at Module._compile (node:internal/modules/cjs/loader:1256:14) {
+21/04/2024 16:02:11.847:   code: 'MODULE_NOT_FOUND',
+21/04/2024 16:02:11.847:   requireStack: [
+21/04/2024 16:02:11.847:     '/Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js'
+21/04/2024 16:02:11.847:   ]
+21/04/2024 16:02:11.847: }
+21/04/2024 16:02:11.847: Error: Cannot find module 'express'
+21/04/2024 16:02:11.847: Require stack:
+21/04/2024 16:02:11.848: - /Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js
+21/04/2024 16:02:11.848:     at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+21/04/2024 16:02:11.848:     at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+21/04/2024 16:02:11.848:     at require (node:internal/modules/cjs/helpers:121:18)
+21/04/2024 16:02:11.848:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js:3:17)
+21/04/2024 16:02:11.848:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 16:02:11.848:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 16:02:11.848:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 16:02:11.848:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 16:02:11.848:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 16:02:11.848:     at Module._compile (node:internal/modules/cjs/loader:1256:14) {
+21/04/2024 16:02:11.848:   code: 'MODULE_NOT_FOUND',
+21/04/2024 16:02:11.848:   requireStack: [
+21/04/2024 16:02:11.848:     '/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js'
+21/04/2024 16:02:11.848:   ]
+21/04/2024 16:02:11.848: }
+21/04/2024 16:02:12.094: Error: Cannot find module 'express'
+21/04/2024 16:02:12.094: Require stack:
+21/04/2024 16:02:12.094: - /Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js
+21/04/2024 16:02:12.094:     at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+21/04/2024 16:02:12.094:     at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+21/04/2024 16:02:12.094:     at require (node:internal/modules/cjs/helpers:121:18)
+21/04/2024 16:02:12.094:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js:1:17)
+21/04/2024 16:02:12.094:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 16:02:12.094:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 16:02:12.094:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 16:02:12.094:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 16:02:12.094:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 16:02:12.094:     at Module._compile (node:internal/modules/cjs/loader:1256:14) {
+21/04/2024 16:02:12.094:   code: 'MODULE_NOT_FOUND',
+21/04/2024 16:02:12.094:   requireStack: [
+21/04/2024 16:02:12.094:     '/Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js'
+21/04/2024 16:02:12.094:   ]
+21/04/2024 16:02:12.094: }
+21/04/2024 16:02:12.095: Error: Cannot find module 'express'
+21/04/2024 16:02:12.095: Require stack:
+21/04/2024 16:02:12.095: - /Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js
+21/04/2024 16:02:12.095:     at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+21/04/2024 16:02:12.095:     at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+21/04/2024 16:02:12.095:     at require (node:internal/modules/cjs/helpers:121:18)
+21/04/2024 16:02:12.095:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js:3:17)
+21/04/2024 16:02:12.095:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 16:02:12.095:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 16:02:12.095:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 16:02:12.095:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 16:02:12.095:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 16:02:12.095:     at Module._compile (node:internal/modules/cjs/loader:1256:14) {
+21/04/2024 16:02:12.095:   code: 'MODULE_NOT_FOUND',
+21/04/2024 16:02:12.095:   requireStack: [
+21/04/2024 16:02:12.095:     '/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js'
+21/04/2024 16:02:12.095:   ]
+21/04/2024 16:02:12.095: }
+21/04/2024 16:02:12.311: Error: Cannot find module 'express'
+21/04/2024 16:02:12.311: Require stack:
+21/04/2024 16:02:12.311: - /Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js
+21/04/2024 16:02:12.311:     at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+21/04/2024 16:02:12.311:     at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+21/04/2024 16:02:12.311:     at require (node:internal/modules/cjs/helpers:121:18)
+21/04/2024 16:02:12.311:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js:3:17)
+21/04/2024 16:02:12.311:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 16:02:12.311:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 16:02:12.311:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 16:02:12.311:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 16:02:12.311:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 16:02:12.311:     at Module._compile (node:internal/modules/cjs/loader:1256:14) {
+21/04/2024 16:02:12.311:   code: 'MODULE_NOT_FOUND',
+21/04/2024 16:02:12.311:   requireStack: [
+21/04/2024 16:02:12.311:     '/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js'
+21/04/2024 16:02:12.311:   ]
+21/04/2024 16:02:12.311: }
+21/04/2024 16:02:12.311: Error: Cannot find module 'express'
+21/04/2024 16:02:12.311: Require stack:
+21/04/2024 16:02:12.311: - /Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js
+21/04/2024 16:02:12.311:     at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+21/04/2024 16:02:12.311:     at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+21/04/2024 16:02:12.311:     at require (node:internal/modules/cjs/helpers:121:18)
+21/04/2024 16:02:12.311:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js:1:17)
+21/04/2024 16:02:12.311:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 16:02:12.311:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 16:02:12.311:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 16:02:12.311:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 16:02:12.311:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 16:02:12.311:     at Module._compile (node:internal/modules/cjs/loader:1256:14) {
+21/04/2024 16:02:12.311:   code: 'MODULE_NOT_FOUND',
+21/04/2024 16:02:12.311:   requireStack: [
+21/04/2024 16:02:12.311:     '/Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js'
+21/04/2024 16:02:12.311:   ]
+21/04/2024 16:02:12.311: }
+21/04/2024 16:02:12.530: Error: Cannot find module 'express'
+21/04/2024 16:02:12.530: Require stack:
+21/04/2024 16:02:12.530: - /Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js
+21/04/2024 16:02:12.530:     at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+21/04/2024 16:02:12.530:     at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+21/04/2024 16:02:12.530:     at require (node:internal/modules/cjs/helpers:121:18)
+21/04/2024 16:02:12.530:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js:3:17)
+21/04/2024 16:02:12.530:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 16:02:12.530:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 16:02:12.530:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 16:02:12.530:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 16:02:12.530:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 16:02:12.530:     at Module._compile (node:internal/modules/cjs/loader:1256:14) {
+21/04/2024 16:02:12.530:   code: 'MODULE_NOT_FOUND',
+21/04/2024 16:02:12.530:   requireStack: [
+21/04/2024 16:02:12.530:     '/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js'
+21/04/2024 16:02:12.530:   ]
+21/04/2024 16:02:12.530: }
+21/04/2024 16:02:12.530: Error: Cannot find module 'express'
+21/04/2024 16:02:12.530: Require stack:
+21/04/2024 16:02:12.530: - /Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js
+21/04/2024 16:02:12.530:     at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+21/04/2024 16:02:12.530:     at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+21/04/2024 16:02:12.530:     at require (node:internal/modules/cjs/helpers:121:18)
+21/04/2024 16:02:12.530:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js:1:17)
+21/04/2024 16:02:12.530:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 16:02:12.530:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 16:02:12.530:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 16:02:12.530:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 16:02:12.530:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 16:02:12.530:     at Module._compile (node:internal/modules/cjs/loader:1256:14) {
+21/04/2024 16:02:12.530:   code: 'MODULE_NOT_FOUND',
+21/04/2024 16:02:12.530:   requireStack: [
+21/04/2024 16:02:12.530:     '/Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js'
+21/04/2024 16:02:12.530:   ]
+21/04/2024 16:02:12.530: }
+21/04/2024 16:02:12.781: Error: Cannot find module 'express'
+21/04/2024 16:02:12.781: Require stack:
+21/04/2024 16:02:12.781: - /Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js
+21/04/2024 16:02:12.781:     at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+21/04/2024 16:02:12.781:     at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+21/04/2024 16:02:12.781:     at require (node:internal/modules/cjs/helpers:121:18)
+21/04/2024 16:02:12.781:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js:1:17)
+21/04/2024 16:02:12.781:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 16:02:12.781:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 16:02:12.781:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 16:02:12.781:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 16:02:12.781:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 16:02:12.781:     at Module._compile (node:internal/modules/cjs/loader:1256:14) {
+21/04/2024 16:02:12.781:   code: 'MODULE_NOT_FOUND',
+21/04/2024 16:02:12.781:   requireStack: [
+21/04/2024 16:02:12.781:     '/Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js'
+21/04/2024 16:02:12.781:   ]
+21/04/2024 16:02:12.781: }
+21/04/2024 16:02:12.781: Error: Cannot find module 'express'
+21/04/2024 16:02:12.781: Require stack:
+21/04/2024 16:02:12.781: - /Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js
+21/04/2024 16:02:12.781:     at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+21/04/2024 16:02:12.781:     at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+21/04/2024 16:02:12.781:     at require (node:internal/modules/cjs/helpers:121:18)
+21/04/2024 16:02:12.781:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js:3:17)
+21/04/2024 16:02:12.781:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 16:02:12.781:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 16:02:12.781:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 16:02:12.781:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 16:02:12.781:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 16:02:12.781:     at Module._compile (node:internal/modules/cjs/loader:1256:14) {
+21/04/2024 16:02:12.781:   code: 'MODULE_NOT_FOUND',
+21/04/2024 16:02:12.781:   requireStack: [
+21/04/2024 16:02:12.781:     '/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js'
+21/04/2024 16:02:12.781:   ]
+21/04/2024 16:02:12.781: }
+21/04/2024 16:02:13.020: Error: Cannot find module 'express'
+21/04/2024 16:02:13.020: Require stack:
+21/04/2024 16:02:13.020: - /Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js
+21/04/2024 16:02:13.020:     at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+21/04/2024 16:02:13.020:     at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+21/04/2024 16:02:13.020:     at require (node:internal/modules/cjs/helpers:121:18)
+21/04/2024 16:02:13.020:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js:3:17)
+21/04/2024 16:02:13.020:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 16:02:13.020:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 16:02:13.020:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 16:02:13.020:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 16:02:13.020:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 16:02:13.020:     at Module._compile (node:internal/modules/cjs/loader:1256:14) {
+21/04/2024 16:02:13.020:   code: 'MODULE_NOT_FOUND',
+21/04/2024 16:02:13.020:   requireStack: [
+21/04/2024 16:02:13.020:     '/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js'
+21/04/2024 16:02:13.020:   ]
+21/04/2024 16:02:13.020: }
+21/04/2024 16:02:13.020: Error: Cannot find module 'express'
+21/04/2024 16:02:13.020: Require stack:
+21/04/2024 16:02:13.020: - /Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js
+21/04/2024 16:02:13.020:     at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+21/04/2024 16:02:13.020:     at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+21/04/2024 16:02:13.020:     at require (node:internal/modules/cjs/helpers:121:18)
+21/04/2024 16:02:13.020:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js:1:17)
+21/04/2024 16:02:13.020:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 16:02:13.020:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 16:02:13.020:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 16:02:13.020:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 16:02:13.020:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 16:02:13.020:     at Module._compile (node:internal/modules/cjs/loader:1256:14) {
+21/04/2024 16:02:13.020:   code: 'MODULE_NOT_FOUND',
+21/04/2024 16:02:13.020:   requireStack: [
+21/04/2024 16:02:13.020:     '/Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js'
+21/04/2024 16:02:13.020:   ]
+21/04/2024 16:02:13.020: }
+21/04/2024 16:02:13.257: Error: Cannot find module 'express'
+21/04/2024 16:02:13.257: Require stack:
+21/04/2024 16:02:13.257: - /Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js
+21/04/2024 16:02:13.257:     at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+21/04/2024 16:02:13.257:     at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+21/04/2024 16:02:13.257:     at require (node:internal/modules/cjs/helpers:121:18)
+21/04/2024 16:02:13.257:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js:1:17)
+21/04/2024 16:02:13.257:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 16:02:13.257:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 16:02:13.257:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 16:02:13.257:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 16:02:13.257:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 16:02:13.257:     at Module._compile (node:internal/modules/cjs/loader:1256:14) {
+21/04/2024 16:02:13.257:   code: 'MODULE_NOT_FOUND',
+21/04/2024 16:02:13.257:   requireStack: [
+21/04/2024 16:02:13.257:     '/Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js'
+21/04/2024 16:02:13.257:   ]
+21/04/2024 16:02:13.257: }
+21/04/2024 16:02:13.257: Error: Cannot find module 'express'
+21/04/2024 16:02:13.257: Require stack:
+21/04/2024 16:02:13.257: - /Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js
+21/04/2024 16:02:13.257:     at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+21/04/2024 16:02:13.257:     at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+21/04/2024 16:02:13.257:     at require (node:internal/modules/cjs/helpers:121:18)
+21/04/2024 16:02:13.257:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js:3:17)
+21/04/2024 16:02:13.257:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 16:02:13.257:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 16:02:13.257:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 16:02:13.257:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 16:02:13.257:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 16:02:13.257:     at Module._compile (node:internal/modules/cjs/loader:1256:14) {
+21/04/2024 16:02:13.257:   code: 'MODULE_NOT_FOUND',
+21/04/2024 16:02:13.257:   requireStack: [
+21/04/2024 16:02:13.257:     '/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js'
+21/04/2024 16:02:13.257:   ]
+21/04/2024 16:02:13.257: }
+21/04/2024 16:02:13.510: Error: Cannot find module 'express'
+21/04/2024 16:02:13.510: Require stack:
+21/04/2024 16:02:13.510: - /Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js
+21/04/2024 16:02:13.510:     at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+21/04/2024 16:02:13.510:     at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+21/04/2024 16:02:13.510:     at require (node:internal/modules/cjs/helpers:121:18)
+21/04/2024 16:02:13.510:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js:1:17)
+21/04/2024 16:02:13.510:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 16:02:13.510:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 16:02:13.510:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 16:02:13.510:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 16:02:13.510:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 16:02:13.510:     at Module._compile (node:internal/modules/cjs/loader:1256:14) {
+21/04/2024 16:02:13.510:   code: 'MODULE_NOT_FOUND',
+21/04/2024 16:02:13.510:   requireStack: [
+21/04/2024 16:02:13.510:     '/Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js'
+21/04/2024 16:02:13.510:   ]
+21/04/2024 16:02:13.510: }
+21/04/2024 16:02:13.510: Error: Cannot find module 'express'
+21/04/2024 16:02:13.510: Require stack:
+21/04/2024 16:02:13.510: - /Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js
+21/04/2024 16:02:13.510:     at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+21/04/2024 16:02:13.511:     at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+21/04/2024 16:02:13.511:     at require (node:internal/modules/cjs/helpers:121:18)
+21/04/2024 16:02:13.511:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js:3:17)
+21/04/2024 16:02:13.511:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 16:02:13.511:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 16:02:13.511:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 16:02:13.511:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 16:02:13.511:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 16:02:13.511:     at Module._compile (node:internal/modules/cjs/loader:1256:14) {
+21/04/2024 16:02:13.511:   code: 'MODULE_NOT_FOUND',
+21/04/2024 16:02:13.511:   requireStack: [
+21/04/2024 16:02:13.511:     '/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js'
+21/04/2024 16:02:13.511:   ]
+21/04/2024 16:02:13.511: }
+21/04/2024 16:02:13.764: Error: Cannot find module 'express'
+21/04/2024 16:02:13.764: Require stack:
+21/04/2024 16:02:13.764: - /Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js
+21/04/2024 16:02:13.764:     at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+21/04/2024 16:02:13.764:     at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+21/04/2024 16:02:13.764:     at require (node:internal/modules/cjs/helpers:121:18)
+21/04/2024 16:02:13.764:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js:3:17)
+21/04/2024 16:02:13.764:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 16:02:13.764:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 16:02:13.764:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 16:02:13.764:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 16:02:13.764:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 16:02:13.764:     at Module._compile (node:internal/modules/cjs/loader:1256:14) {
+21/04/2024 16:02:13.764:   code: 'MODULE_NOT_FOUND',
+21/04/2024 16:02:13.764:   requireStack: [
+21/04/2024 16:02:13.764:     '/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js'
+21/04/2024 16:02:13.764:   ]
+21/04/2024 16:02:13.764: }
+21/04/2024 16:02:13.764: Error: Cannot find module 'express'
+21/04/2024 16:02:13.764: Require stack:
+21/04/2024 16:02:13.764: - /Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js
+21/04/2024 16:02:13.764:     at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+21/04/2024 16:02:13.764:     at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+21/04/2024 16:02:13.764:     at require (node:internal/modules/cjs/helpers:121:18)
+21/04/2024 16:02:13.764:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js:1:17)
+21/04/2024 16:02:13.764:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 16:02:13.764:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 16:02:13.764:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 16:02:13.764:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 16:02:13.764:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 16:02:13.764:     at Module._compile (node:internal/modules/cjs/loader:1256:14) {
+21/04/2024 16:02:13.764:   code: 'MODULE_NOT_FOUND',
+21/04/2024 16:02:13.764:   requireStack: [
+21/04/2024 16:02:13.764:     '/Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js'
+21/04/2024 16:02:13.764:   ]
+21/04/2024 16:02:13.764: }
+21/04/2024 18:40:10.838: Error: listen EADDRINUSE: address already in use :::3001
+21/04/2024 18:40:10.838:     at Server.setupListenHandle [as _listen2] (node:net:1751:16)
+21/04/2024 18:40:10.838:     at listenInCluster (node:net:1799:12)
+21/04/2024 18:40:10.838:     at Server.listen (node:net:1887:7)
+21/04/2024 18:40:10.838:     at Function.listen (/Users/ronninovello/Documents/GitHub/cfi-sites/node_modules/express/lib/application.js:635:24)
+21/04/2024 18:40:10.838:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js:36:5)
+21/04/2024 18:40:10.838:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 18:40:10.838:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 18:40:10.838:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 18:40:10.838:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 18:40:10.838:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+21/04/2024 18:40:10.838:   code: 'EADDRINUSE',
+21/04/2024 18:40:10.838:   errno: -48,
+21/04/2024 18:40:10.838:   syscall: 'listen',
+21/04/2024 18:40:10.838:   address: '::',
+21/04/2024 18:40:10.838:   port: 3001
+21/04/2024 18:40:10.838: }
+21/04/2024 18:40:10.839: TypeError: Cannot read properties of undefined (reading 'listen')
+21/04/2024 18:40:10.839:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js:55:8)
+21/04/2024 18:40:10.839:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 18:40:10.839:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 18:40:10.839:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 18:40:10.839:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 18:40:10.839:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 18:40:10.839:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 18:40:10.839:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 18:40:10.839:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 18:40:10.839:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 18:40:11.170: Error: listen EADDRINUSE: address already in use :::3001
+21/04/2024 18:40:11.170:     at Server.setupListenHandle [as _listen2] (node:net:1751:16)
+21/04/2024 18:40:11.170:     at listenInCluster (node:net:1799:12)
+21/04/2024 18:40:11.170:     at Server.listen (node:net:1887:7)
+21/04/2024 18:40:11.170:     at Function.listen (/Users/ronninovello/Documents/GitHub/cfi-sites/node_modules/express/lib/application.js:635:24)
+21/04/2024 18:40:11.170:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js:36:5)
+21/04/2024 18:40:11.170:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 18:40:11.170:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 18:40:11.170:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 18:40:11.170:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 18:40:11.170:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+21/04/2024 18:40:11.170:   code: 'EADDRINUSE',
+21/04/2024 18:40:11.170:   errno: -48,
+21/04/2024 18:40:11.170:   syscall: 'listen',
+21/04/2024 18:40:11.170:   address: '::',
+21/04/2024 18:40:11.170:   port: 3001
+21/04/2024 18:40:11.170: }
+21/04/2024 18:40:11.173: TypeError: Cannot read properties of undefined (reading 'listen')
+21/04/2024 18:40:11.173:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js:55:8)
+21/04/2024 18:40:11.173:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 18:40:11.173:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 18:40:11.173:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 18:40:11.173:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 18:40:11.173:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 18:40:11.173:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 18:40:11.173:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 18:40:11.173:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 18:40:11.173:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 18:40:11.521: Error: listen EADDRINUSE: address already in use :::3001
+21/04/2024 18:40:11.521:     at Server.setupListenHandle [as _listen2] (node:net:1751:16)
+21/04/2024 18:40:11.521:     at listenInCluster (node:net:1799:12)
+21/04/2024 18:40:11.521:     at Server.listen (node:net:1887:7)
+21/04/2024 18:40:11.521:     at Function.listen (/Users/ronninovello/Documents/GitHub/cfi-sites/node_modules/express/lib/application.js:635:24)
+21/04/2024 18:40:11.521:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js:36:5)
+21/04/2024 18:40:11.521:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 18:40:11.521:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 18:40:11.521:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 18:40:11.521:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 18:40:11.521:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+21/04/2024 18:40:11.521:   code: 'EADDRINUSE',
+21/04/2024 18:40:11.521:   errno: -48,
+21/04/2024 18:40:11.521:   syscall: 'listen',
+21/04/2024 18:40:11.521:   address: '::',
+21/04/2024 18:40:11.521:   port: 3001
+21/04/2024 18:40:11.521: }
+21/04/2024 18:40:11.522: TypeError: Cannot read properties of undefined (reading 'listen')
+21/04/2024 18:40:11.522:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js:55:8)
+21/04/2024 18:40:11.522:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 18:40:11.522:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 18:40:11.522:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 18:40:11.522:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 18:40:11.522:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 18:40:11.522:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 18:40:11.522:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 18:40:11.522:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 18:40:11.522:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 18:40:11.859: Error: listen EADDRINUSE: address already in use :::3001
+21/04/2024 18:40:11.860:     at Server.setupListenHandle [as _listen2] (node:net:1751:16)
+21/04/2024 18:40:11.860:     at listenInCluster (node:net:1799:12)
+21/04/2024 18:40:11.860:     at Server.listen (node:net:1887:7)
+21/04/2024 18:40:11.860:     at Function.listen (/Users/ronninovello/Documents/GitHub/cfi-sites/node_modules/express/lib/application.js:635:24)
+21/04/2024 18:40:11.860:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js:36:5)
+21/04/2024 18:40:11.860:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 18:40:11.860:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 18:40:11.860:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 18:40:11.860:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 18:40:11.860:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+21/04/2024 18:40:11.860:   code: 'EADDRINUSE',
+21/04/2024 18:40:11.860:   errno: -48,
+21/04/2024 18:40:11.860:   syscall: 'listen',
+21/04/2024 18:40:11.860:   address: '::',
+21/04/2024 18:40:11.860:   port: 3001
+21/04/2024 18:40:11.860: }
+21/04/2024 18:40:11.861: TypeError: Cannot read properties of undefined (reading 'listen')
+21/04/2024 18:40:11.861:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js:55:8)
+21/04/2024 18:40:11.861:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 18:40:11.861:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 18:40:11.861:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 18:40:11.861:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 18:40:11.861:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 18:40:11.861:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 18:40:11.861:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 18:40:11.861:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 18:40:11.861:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 18:40:12.191: TypeError: Cannot read properties of undefined (reading 'listen')
+21/04/2024 18:40:12.191:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js:55:8)
+21/04/2024 18:40:12.191:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 18:40:12.191:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 18:40:12.191:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 18:40:12.191:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 18:40:12.191:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 18:40:12.191:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 18:40:12.191:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 18:40:12.191:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 18:40:12.191:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 18:40:12.197: Error: listen EADDRINUSE: address already in use :::3001
+21/04/2024 18:40:12.197:     at Server.setupListenHandle [as _listen2] (node:net:1751:16)
+21/04/2024 18:40:12.197:     at listenInCluster (node:net:1799:12)
+21/04/2024 18:40:12.197:     at Server.listen (node:net:1887:7)
+21/04/2024 18:40:12.197:     at Function.listen (/Users/ronninovello/Documents/GitHub/cfi-sites/node_modules/express/lib/application.js:635:24)
+21/04/2024 18:40:12.197:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js:36:5)
+21/04/2024 18:40:12.197:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 18:40:12.197:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 18:40:12.197:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 18:40:12.197:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 18:40:12.197:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+21/04/2024 18:40:12.197:   code: 'EADDRINUSE',
+21/04/2024 18:40:12.197:   errno: -48,
+21/04/2024 18:40:12.197:   syscall: 'listen',
+21/04/2024 18:40:12.197:   address: '::',
+21/04/2024 18:40:12.197:   port: 3001
+21/04/2024 18:40:12.197: }
+21/04/2024 18:40:12.530: Error: listen EADDRINUSE: address already in use :::3001
+21/04/2024 18:40:12.530:     at Server.setupListenHandle [as _listen2] (node:net:1751:16)
+21/04/2024 18:40:12.530:     at listenInCluster (node:net:1799:12)
+21/04/2024 18:40:12.530:     at Server.listen (node:net:1887:7)
+21/04/2024 18:40:12.530:     at Function.listen (/Users/ronninovello/Documents/GitHub/cfi-sites/node_modules/express/lib/application.js:635:24)
+21/04/2024 18:40:12.530:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js:36:5)
+21/04/2024 18:40:12.530:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 18:40:12.530:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 18:40:12.530:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 18:40:12.530:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 18:40:12.530:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+21/04/2024 18:40:12.530:   code: 'EADDRINUSE',
+21/04/2024 18:40:12.530:   errno: -48,
+21/04/2024 18:40:12.530:   syscall: 'listen',
+21/04/2024 18:40:12.530:   address: '::',
+21/04/2024 18:40:12.530:   port: 3001
+21/04/2024 18:40:12.530: }
+21/04/2024 18:40:12.531: TypeError: Cannot read properties of undefined (reading 'listen')
+21/04/2024 18:40:12.531:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js:55:8)
+21/04/2024 18:40:12.531:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 18:40:12.531:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 18:40:12.531:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 18:40:12.531:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 18:40:12.531:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 18:40:12.531:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 18:40:12.531:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 18:40:12.531:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 18:40:12.531:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 18:40:12.868: Error: listen EADDRINUSE: address already in use :::3001
+21/04/2024 18:40:12.868:     at Server.setupListenHandle [as _listen2] (node:net:1751:16)
+21/04/2024 18:40:12.868:     at listenInCluster (node:net:1799:12)
+21/04/2024 18:40:12.868:     at Server.listen (node:net:1887:7)
+21/04/2024 18:40:12.868:     at Function.listen (/Users/ronninovello/Documents/GitHub/cfi-sites/node_modules/express/lib/application.js:635:24)
+21/04/2024 18:40:12.868:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js:36:5)
+21/04/2024 18:40:12.868:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 18:40:12.868:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 18:40:12.868:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 18:40:12.868:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 18:40:12.868:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+21/04/2024 18:40:12.868:   code: 'EADDRINUSE',
+21/04/2024 18:40:12.868:   errno: -48,
+21/04/2024 18:40:12.868:   syscall: 'listen',
+21/04/2024 18:40:12.868:   address: '::',
+21/04/2024 18:40:12.868:   port: 3001
+21/04/2024 18:40:12.868: }
+21/04/2024 18:40:12.868: TypeError: Cannot read properties of undefined (reading 'listen')
+21/04/2024 18:40:12.868:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js:55:8)
+21/04/2024 18:40:12.868:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 18:40:12.868:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 18:40:12.868:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 18:40:12.868:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 18:40:12.868:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 18:40:12.869:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 18:40:12.869:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 18:40:12.869:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 18:40:12.869:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 18:40:13.193: Error: listen EADDRINUSE: address already in use :::3001
+21/04/2024 18:40:13.193:     at Server.setupListenHandle [as _listen2] (node:net:1751:16)
+21/04/2024 18:40:13.193:     at listenInCluster (node:net:1799:12)
+21/04/2024 18:40:13.193:     at Server.listen (node:net:1887:7)
+21/04/2024 18:40:13.193:     at Function.listen (/Users/ronninovello/Documents/GitHub/cfi-sites/node_modules/express/lib/application.js:635:24)
+21/04/2024 18:40:13.193:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js:36:5)
+21/04/2024 18:40:13.193:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 18:40:13.193:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 18:40:13.193:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 18:40:13.193:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 18:40:13.193:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+21/04/2024 18:40:13.193:   code: 'EADDRINUSE',
+21/04/2024 18:40:13.193:   errno: -48,
+21/04/2024 18:40:13.193:   syscall: 'listen',
+21/04/2024 18:40:13.193:   address: '::',
+21/04/2024 18:40:13.193:   port: 3001
+21/04/2024 18:40:13.193: }
+21/04/2024 18:40:13.194: TypeError: Cannot read properties of undefined (reading 'listen')
+21/04/2024 18:40:13.194:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js:55:8)
+21/04/2024 18:40:13.194:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 18:40:13.194:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 18:40:13.194:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 18:40:13.194:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 18:40:13.194:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 18:40:13.194:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 18:40:13.194:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 18:40:13.194:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 18:40:13.194:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 18:40:13.515: Error: listen EADDRINUSE: address already in use :::3001
+21/04/2024 18:40:13.515:     at Server.setupListenHandle [as _listen2] (node:net:1751:16)
+21/04/2024 18:40:13.515:     at listenInCluster (node:net:1799:12)
+21/04/2024 18:40:13.515:     at Server.listen (node:net:1887:7)
+21/04/2024 18:40:13.515:     at Function.listen (/Users/ronninovello/Documents/GitHub/cfi-sites/node_modules/express/lib/application.js:635:24)
+21/04/2024 18:40:13.515:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js:36:5)
+21/04/2024 18:40:13.515:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 18:40:13.515:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 18:40:13.515:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 18:40:13.515:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 18:40:13.515:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+21/04/2024 18:40:13.515:   code: 'EADDRINUSE',
+21/04/2024 18:40:13.515:   errno: -48,
+21/04/2024 18:40:13.515:   syscall: 'listen',
+21/04/2024 18:40:13.515:   address: '::',
+21/04/2024 18:40:13.515:   port: 3001
+21/04/2024 18:40:13.515: }
+21/04/2024 18:40:13.516: TypeError: Cannot read properties of undefined (reading 'listen')
+21/04/2024 18:40:13.516:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js:55:8)
+21/04/2024 18:40:13.516:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 18:40:13.516:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 18:40:13.516:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 18:40:13.516:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 18:40:13.517:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 18:40:13.517:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 18:40:13.517:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 18:40:13.517:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 18:40:13.517:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 18:40:13.841: Error: listen EADDRINUSE: address already in use :::3001
+21/04/2024 18:40:13.841:     at Server.setupListenHandle [as _listen2] (node:net:1751:16)
+21/04/2024 18:40:13.841:     at listenInCluster (node:net:1799:12)
+21/04/2024 18:40:13.841:     at Server.listen (node:net:1887:7)
+21/04/2024 18:40:13.841:     at Function.listen (/Users/ronninovello/Documents/GitHub/cfi-sites/node_modules/express/lib/application.js:635:24)
+21/04/2024 18:40:13.841:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js:36:5)
+21/04/2024 18:40:13.841:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 18:40:13.841:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 18:40:13.841:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 18:40:13.841:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 18:40:13.841:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+21/04/2024 18:40:13.841:   code: 'EADDRINUSE',
+21/04/2024 18:40:13.841:   errno: -48,
+21/04/2024 18:40:13.841:   syscall: 'listen',
+21/04/2024 18:40:13.841:   address: '::',
+21/04/2024 18:40:13.841:   port: 3001
+21/04/2024 18:40:13.841: }
+21/04/2024 18:40:13.843: TypeError: Cannot read properties of undefined (reading 'listen')
+21/04/2024 18:40:13.843:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js:55:8)
+21/04/2024 18:40:13.843:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 18:40:13.843:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 18:40:13.843:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 18:40:13.843:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 18:40:13.843:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 18:40:13.843:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 18:40:13.843:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 18:40:13.843:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 18:40:13.843:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 18:40:14.165: Error: listen EADDRINUSE: address already in use :::3001
+21/04/2024 18:40:14.165:     at Server.setupListenHandle [as _listen2] (node:net:1751:16)
+21/04/2024 18:40:14.165:     at listenInCluster (node:net:1799:12)
+21/04/2024 18:40:14.165:     at Server.listen (node:net:1887:7)
+21/04/2024 18:40:14.165:     at Function.listen (/Users/ronninovello/Documents/GitHub/cfi-sites/node_modules/express/lib/application.js:635:24)
+21/04/2024 18:40:14.165:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js:36:5)
+21/04/2024 18:40:14.165:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 18:40:14.165:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 18:40:14.165:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 18:40:14.165:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 18:40:14.165:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+21/04/2024 18:40:14.165:   code: 'EADDRINUSE',
+21/04/2024 18:40:14.165:   errno: -48,
+21/04/2024 18:40:14.165:   syscall: 'listen',
+21/04/2024 18:40:14.165:   address: '::',
+21/04/2024 18:40:14.165:   port: 3001
+21/04/2024 18:40:14.165: }
+21/04/2024 18:40:14.165: TypeError: Cannot read properties of undefined (reading 'listen')
+21/04/2024 18:40:14.165:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js:55:8)
+21/04/2024 18:40:14.165:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 18:40:14.165:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 18:40:14.165:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 18:40:14.165:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 18:40:14.165:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 18:40:14.165:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 18:40:14.165:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 18:40:14.165:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 18:40:14.165:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 18:40:14.491: Error: listen EADDRINUSE: address already in use :::3001
+21/04/2024 18:40:14.491:     at Server.setupListenHandle [as _listen2] (node:net:1751:16)
+21/04/2024 18:40:14.491:     at listenInCluster (node:net:1799:12)
+21/04/2024 18:40:14.491:     at Server.listen (node:net:1887:7)
+21/04/2024 18:40:14.491:     at Function.listen (/Users/ronninovello/Documents/GitHub/cfi-sites/node_modules/express/lib/application.js:635:24)
+21/04/2024 18:40:14.491:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js:36:5)
+21/04/2024 18:40:14.491:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 18:40:14.491:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 18:40:14.491:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 18:40:14.491:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 18:40:14.491:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+21/04/2024 18:40:14.491:   code: 'EADDRINUSE',
+21/04/2024 18:40:14.491:   errno: -48,
+21/04/2024 18:40:14.491:   syscall: 'listen',
+21/04/2024 18:40:14.491:   address: '::',
+21/04/2024 18:40:14.491:   port: 3001
+21/04/2024 18:40:14.491: }
+21/04/2024 18:40:14.492: TypeError: Cannot read properties of undefined (reading 'listen')
+21/04/2024 18:40:14.492:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js:55:8)
+21/04/2024 18:40:14.492:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 18:40:14.492:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 18:40:14.492:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 18:40:14.492:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 18:40:14.492:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 18:40:14.492:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 18:40:14.492:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 18:40:14.492:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 18:40:14.492:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 18:40:14.821: Error: listen EADDRINUSE: address already in use :::3001
+21/04/2024 18:40:14.821:     at Server.setupListenHandle [as _listen2] (node:net:1751:16)
+21/04/2024 18:40:14.821:     at listenInCluster (node:net:1799:12)
+21/04/2024 18:40:14.821:     at Server.listen (node:net:1887:7)
+21/04/2024 18:40:14.821:     at Function.listen (/Users/ronninovello/Documents/GitHub/cfi-sites/node_modules/express/lib/application.js:635:24)
+21/04/2024 18:40:14.821:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js:36:5)
+21/04/2024 18:40:14.821:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 18:40:14.821:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 18:40:14.821:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 18:40:14.821:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 18:40:14.821:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+21/04/2024 18:40:14.821:   code: 'EADDRINUSE',
+21/04/2024 18:40:14.821:   errno: -48,
+21/04/2024 18:40:14.821:   syscall: 'listen',
+21/04/2024 18:40:14.821:   address: '::',
+21/04/2024 18:40:14.821:   port: 3001
+21/04/2024 18:40:14.821: }
+21/04/2024 18:40:14.822: TypeError: Cannot read properties of undefined (reading 'listen')
+21/04/2024 18:40:14.822:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js:55:8)
+21/04/2024 18:40:14.822:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 18:40:14.822:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 18:40:14.822:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 18:40:14.822:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 18:40:14.822:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 18:40:14.822:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 18:40:14.822:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 18:40:14.822:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 18:40:14.822:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 18:40:15.148: Error: listen EADDRINUSE: address already in use :::3001
+21/04/2024 18:40:15.148:     at Server.setupListenHandle [as _listen2] (node:net:1751:16)
+21/04/2024 18:40:15.148:     at listenInCluster (node:net:1799:12)
+21/04/2024 18:40:15.148:     at Server.listen (node:net:1887:7)
+21/04/2024 18:40:15.148:     at Function.listen (/Users/ronninovello/Documents/GitHub/cfi-sites/node_modules/express/lib/application.js:635:24)
+21/04/2024 18:40:15.148:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js:36:5)
+21/04/2024 18:40:15.148:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 18:40:15.148:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 18:40:15.148:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 18:40:15.148:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 18:40:15.148:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+21/04/2024 18:40:15.148:   code: 'EADDRINUSE',
+21/04/2024 18:40:15.148:   errno: -48,
+21/04/2024 18:40:15.148:   syscall: 'listen',
+21/04/2024 18:40:15.148:   address: '::',
+21/04/2024 18:40:15.148:   port: 3001
+21/04/2024 18:40:15.148: }
+21/04/2024 18:40:15.150: TypeError: Cannot read properties of undefined (reading 'listen')
+21/04/2024 18:40:15.150:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js:55:8)
+21/04/2024 18:40:15.150:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 18:40:15.150:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 18:40:15.150:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 18:40:15.150:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 18:40:15.150:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 18:40:15.150:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 18:40:15.150:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 18:40:15.150:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 18:40:15.150:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 18:40:15.480: Error: listen EADDRINUSE: address already in use :::3001
+21/04/2024 18:40:15.480:     at Server.setupListenHandle [as _listen2] (node:net:1751:16)
+21/04/2024 18:40:15.480:     at listenInCluster (node:net:1799:12)
+21/04/2024 18:40:15.480:     at Server.listen (node:net:1887:7)
+21/04/2024 18:40:15.480:     at Function.listen (/Users/ronninovello/Documents/GitHub/cfi-sites/node_modules/express/lib/application.js:635:24)
+21/04/2024 18:40:15.480:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js:36:5)
+21/04/2024 18:40:15.480:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 18:40:15.480:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 18:40:15.480:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 18:40:15.480:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 18:40:15.480:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+21/04/2024 18:40:15.480:   code: 'EADDRINUSE',
+21/04/2024 18:40:15.480:   errno: -48,
+21/04/2024 18:40:15.480:   syscall: 'listen',
+21/04/2024 18:40:15.480:   address: '::',
+21/04/2024 18:40:15.480:   port: 3001
+21/04/2024 18:40:15.480: }
+21/04/2024 18:40:15.481: TypeError: Cannot read properties of undefined (reading 'listen')
+21/04/2024 18:40:15.481:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js:55:8)
+21/04/2024 18:40:15.481:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 18:40:15.481:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 18:40:15.481:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 18:40:15.481:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 18:40:15.481:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 18:40:15.481:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 18:40:15.481:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 18:40:15.481:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 18:40:15.481:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 18:40:15.815: Error: listen EADDRINUSE: address already in use :::3001
+21/04/2024 18:40:15.815:     at Server.setupListenHandle [as _listen2] (node:net:1751:16)
+21/04/2024 18:40:15.815:     at listenInCluster (node:net:1799:12)
+21/04/2024 18:40:15.815:     at Server.listen (node:net:1887:7)
+21/04/2024 18:40:15.815:     at Function.listen (/Users/ronninovello/Documents/GitHub/cfi-sites/node_modules/express/lib/application.js:635:24)
+21/04/2024 18:40:15.815:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/rcn-dev/src/server.js:36:5)
+21/04/2024 18:40:15.815:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 18:40:15.815:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 18:40:15.815:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 18:40:15.815:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 18:40:15.815:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+21/04/2024 18:40:15.815:   code: 'EADDRINUSE',
+21/04/2024 18:40:15.815:   errno: -48,
+21/04/2024 18:40:15.815:   syscall: 'listen',
+21/04/2024 18:40:15.815:   address: '::',
+21/04/2024 18:40:15.815:   port: 3001
+21/04/2024 18:40:15.815: }
+21/04/2024 18:40:15.815: TypeError: Cannot read properties of undefined (reading 'listen')
+21/04/2024 18:40:15.815:     at Object.<anonymous> (/Users/ronninovello/Documents/GitHub/cfi-sites/cfi/src/server.js:55:8)
+21/04/2024 18:40:15.815:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 18:40:15.815:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 18:40:15.815:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 18:40:15.815:     at Module._load (node:internal/modules/cjs/loader:960:12)
+21/04/2024 18:40:15.815:     at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+21/04/2024 18:40:15.815:     at Module._compile (node:internal/modules/cjs/loader:1256:14)
+21/04/2024 18:40:15.815:     at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+21/04/2024 18:40:15.815:     at Module.load (node:internal/modules/cjs/loader:1119:32)
+21/04/2024 18:40:15.815:     at Module._load (node:internal/modules/cjs/loader:960:12)
